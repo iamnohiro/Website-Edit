@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,etc..."/>
+<meta name="keywords" content="mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel, etc..."/>
+
+<title>Parlacom | LeadingQuest</title>
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript" src="js/jquery.accordion.js"></script>
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('.accordion').accordion({defaultOpen: 'section1'}); //some_id section1 in org
+        });
+ </script>
+</head>
+
+<body>
+	<div id="top">
+    	<div class="wrapper">	<ul class="social">
+            	<li><a href="https://www.facebook.com/parlacom?ref=tn_tnmn" target="_blank"><img src="images/facebook.png" /></a></li>
+                <li><a href="https://plus.google.com/116985116471432359216/posts" target="_blank"><img src="images/gmail.png" /></a></li>
+                <li><a href="https://www.linkedin.com/company/parlacom-m2m?trk=top_nav_home" target="_blank"><img src="images/in.png" /></a></li>
+                <li><a href="https://twitter.com/ParlacomBrasil" target="_blank"><img src="images/twitter.png" /></a></li>
+            </ul>
+            
+              <ul class="languageopt">
+                        <li class="drop"><a href="/en"><img src="images/en.png" /> English</a><li>
+                       	<li><a href="/pt"><img src="images/port.png" /> Português</a></li>
+ 				</ul>
+       	</div>
+    </div>
+    <div id="headermain">
+        	<div class="wrapper">
+            	<a href="index.html"><img src="images/logoorg.png" class="logo" alt="Parlacom" /></a><b>A Melhor Plataforma M2M do Mercado</b>
+                 <div class="searchcon">
+                	<div class="phone">
+                    	<span><i class="fa fa-envelope"></i> sales@parlacom.net</span>
+                     	<span><i class="fa fa-phone-square"></i> 11 – 32302454</span>
+                     </div>
+                     <div class="clr"></div><div class="searchconthing"> 
+                    <span class="login"><a href="http://www.parlacom.net/login.html" target=_BLANK>Login</a></span>
+                    <span class="sign_up"><a href="#" target=_BLANK>Sign up</a></span>
+                    
+                   </div>
+                </div>
+            </div>
+        </div>
+	<div id="menucon">
+    	<div class="wrapper">
+        		<ul class="sf-menu">
+            	<li><a href="index.html">INICIO</a></li>
+               
+                <li class="drop"><a class="current" class="current" href="#">QUEM SOMOS</a>
+                	<ul>
+                    	 <li><a href="sobreparlacom.html">SOBRE PARLACOM</a></li>
+                         <li><a href="equipe.html">TIME EXECUTIVO</a></li>
+                         <li><a href="clientes.html">NOSSOS CLIENTES</a></li>
+                         <li><a href="parceiros.html">NOSSOS PARCEIROS</a></li>
+                         <li><a href="index.html">LEADINGQUEST</a></li>
+                    </ul>
+                </li>
+                <li class="drop"><a href="#">PORQUE PARLACOM</a>
+                	<ul>
+                    	 <li><a href="nossarede.html">NOSSA REDE</a></li>
+                         <li><a href="plataforma.html">NOSSA PLATAFORMA</a></li>
+                         <li><a href="mercuriusweb.html">MERCURIUS WEB</a></li>
+                         <li><a href="operadoras.html">CONECTIVIDADE</a></li>
+                    </ul>
+                </li>
+                <li class="drop"><a href="#">SERVICOS</a>
+                	   <ul>
+                    	   <li><a href="m2m.html">PLATAFORMA M2M</a></li>
+						   <li><a href="m2m_messaging.html">MENSAGENS SMS</a></li>
+                           <li><a href="aplicativosandroid.html">APLICATIVOS ANDROID & IPHONE</a></li>
+                           <li><a href="data_center_gerenciado.html">DATA CENTER GERENCIADO</a></li>
+                           <li><a href="pbxvirtual.html">PBX VIRTUAL E CALL CENTERS</a></li>
+                     </ul>
+                </li>
+                 <li class="drop"><a href="#">RECURSOS</a>
+                    <ul>
+                      <li><a href="artigos.html">NOTÍCIAS E IMPRENSA</a></li>
+                      <li><a href="whitepapers.html">WHITEPAPERS</a></li>
+                      <li><a href="listaprecos.html">TABELA DE PREÇOS</a></li>
+                      <li><a href="documentostecnicos.html">DOCUMENTOS TÉCNICOS</a></li>
+                      <li><a href="atualizacoesdoproduto.html">ATUALIZAÇÕES DO PRODUTO</a></li>
+                      <li><a href="faqsajuda.html">FAQS & AJUDA</a></li>
+                    </ul>
+                  </li>
+                 <li><a href="contatos.html">ENTRE EM CONTATO</a></li>
+            </ul>
+        </div>
+    </div>
+    
+     <!--/slider -->
+    
+    	<div class="innercontent">
+        	<div class="wrapper">
+            		<h4 class="teamhead">Time Executivo</h4>
+                    	<p class="paracom_style" style="text-align:center;">
+                        	A equipe LeadingQuest é um grupo diversificado de pessoas com uma paixão comum: comunicações móveis. Nós trabalhamos juntos para criar as melhores soluções móveis e de telecomunicações para pessoas físicas e jurídicas em todo o mundo.
+   
+                        </p>
+                        <h4 class="teamheadsub">Executive Team – Global Operations</h4>
+            	<div class="inner_con">
+                	  <span class="teamer">
+                            <img src="images/member-4.jpg" />
+                            <i><strong>Clovis Lacerda</strong><br />
+						 	Fundador e CEO</i>
+                          </span>
+                          
+                    <p class="paracom_style">
+Clovis Lacerda fundou a Elogica, uma das primeiras provedoras de Internet no Brasil, em 1995. Ao longo de um período de 5 anos, ele criou a empresa para o ISP líder na região Noroeste do Brasil. A PSINet adquiriu a Elogica em abril de 2000. Clovis, então, tornou-se o CEO da Inter.net. Em 2002, depois de se mudar para a sede da empresa em Reston, Clovis criou a Fastbee Global: uma empresa de banda larga condominial onde trabalhou como presidente. A LeadingQuest foi fundada em 2004 com o desenvolvimento de uma nova tecnologia baseada em telefonia IP. <br />
+<br />
+De 2005 a 2007, Clovis trabalhou na InPhonic, uma empresa pública de venda de serviços e dispositivos sem fio através de sites de e-commerce e privados. Durante este tempo, ele dirigiu o gerenciamento do programa da MVNE para fornecer MVNO completo e pronto a usar para empresas de maior porte, como a AT&T, Hawaii Telecom e outras. Desde então, ele tem dedicado seu tempo para crescer no mercado de telecomunicações da LeadingQuest, local e globalmente.   Ele tem um diploma de graduação em Engenharia Eletrônica e MBA em Marketing pela Universidade Federal de Pernambuco. Também recebeu seu MBA Executivo pela George Mason University, EUA.
+
+
+                    </p>
+                    
+                    <div class="clr"></div>
+                    
+                    	<div class="seperator"></div>
+                    
+                   		 <span class="teamer">
+                            <img src="images/member-5.jpg" />
+                            <i><strong>Liliana Meneses</strong><br />
+						 	Vice-Presidente para Global <br /> Business Development</i>
+                            </span>
+                            
+                            <p class="paracom_style">
+Liliana é especialista em liderança global e gerenciamento de mudança. Ela trabalha como elo entre a LeadingQuest e as empresas que estão buscando se preparar melhor para o uso da tecnologia móvel. Ela supervisiona todos os níveis de nossa organização, assegurando que todos os membros de nossa equipe estão preparados para as mudanças e os desafios de abraçar novos empreendimentos.<br />
+<br />
+
+Liliana recebeu seu doutorado em Aprendizagem Humana e Organizacional pela Universidade George Washington. Ela tem trabalhado como consultora internacional, educadora e instrutora. 
+
+                   
+
+				<div class="clr"></div>
+                            
+                            <div class="seperator"></div>
+         
+         
+         
+                    
+                   		 <span class="teamer">
+                            <img src="images/member-sandro.jpg" />
+                            <i><strong>Sandro Tamman</strong><br />
+						 	Diretor Executivo (Brasil)<br /> </i>
+                            </span>
+                            
+                            <p class="paracom_style">
+Vinte e três anos de experiência profissional no desenvolvimento de soluções inovadoras em TI & Telecom. Trabalhou nos últimos treze anos no mercado de Telefonia, em empresas como Intelig e TIM. Nesta última foi responsável pela equipe de Pré-vendas e Soluções Corporativas no mercado Grandes Contas|PME para o N|NE e Minas Gerais. É formado pela Universidade Federal da Paraíba, possui MBA em Gestão Empresarial, pela Fundação Getúlio Vargas, e é especialista em VAS - Serviços de Valor Agregado. É vice-presidente da Sociedade de Usuários de Informática e Telecomunicações (SUCESU-PE).<br />
+                   
+
+				<div class="clr"></div>
+                            
+                            <div class="seperator"></div>
+                            
+                            
+                            
+                            
+                                               
+
+<strong style="font-size:20px;"><i class="fa fa-phone" style="font-size:20px; color:#ec7410;"></i>
+<a style="color:#ec7410;" href="contatos.html">Clique aqui para entrar em contato agora</a></strong></p>
+
+			<div class="clr"></div>
+
+				
+                            
+            	<div class="clr"></div>
+                    
+                    	<div class="seperator"></div>
+                            
+                       </div>
+                    	
+                </div>
+            </div>
+        </div>
+        
+    
+        
+   	   <div id="footer_new">
+   	   <div class="wrapper">
+       		<div class="quicklink">
+            		<h4>Mapa do Site</h4>
+            	<ul>
+                	<li><i class="fa fa-chevron-right"></i> <a href="index.html">INICIO</a></li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">QUEM SOMOS</a>
+                    	<ul>
+                        	<li><i class="fa fa-circle"></i> <a href="sobreparlacom.html">SOBRE PARLACOM</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="equipe.html">TIME EXECUTIVO</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="clientes.html">NOSSOS CLIENTES</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="parceiros.html">NOSSOS PARCEIROS</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">PORQUE PARLACOM</a>
+                    	<ul>
+                       	  <li><i class="fa fa-circle"></i> <a href="nossarede.html">NOSSA REDE</a></li>
+                          <li><i class="fa fa-circle"></i> <a href="plataforma.html">NOSSA PLATFORMA</a></li>
+                          <li><i class="fa fa-circle"></i> <a href="mercuriusweb.html">MERCURIUS WEB</a></li>
+                          <li><a href="carrier_inter.html"></a><i class="fa fa-circle"></i> <a href="operadoras.html">CONECTIVIDADE</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">SERVICOS</a>
+                    	<ul>
+                       	  <li><i class="fa fa-circle"></i> <a href="m2m.html">PLATFORMA M2M</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="m2m_messaging.html">MENSAGENS SMS</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="aplicativosandroid.html">APLICATIVOS ANDROID &amp; IPHONE</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="data_center_gerenciado.html">DATA CENTER GERENCIADO</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="pbxvirtual.html">PBX VIRTUAL E CALL CENTERS</a></li>
+                        </ul>
+                    </li>
+                     <li><i class="fa fa-chevron-right"></i><a href="#">RECURSOS</a>
+                       		<ul>
+                                <li><i class="fa fa-circle"></i> <a href="artigos.html">NOTÍCIAS E IMPRENSA</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="whitepapers.html">WHITEPAPERS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="contratos.html">CONTRATOS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="listaprecos.html">TABELA DE PREÇOS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="documentostecnicos.html">DOCUMENTOS TÉCNICOS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="atualizacoesdoproduto.html">ATUALIZAÇÕES DO PRODUTO</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="faqsajuda.html">FAQS & AJUDA</a></li>
+                            </ul>
+                       </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="contatos.html">ENTRE EM CONTATO</a></li>
+                </ul>
+            </div>
+     <div class="contact_info">
+                        <h5>Nossos Contatos</h5>
+                    <address>
+                    	<strong>EUA</strong>
+                       LeadingQuest LLC<br />
+11220 Elm Lane, Suite 200<br />
+Charlotte, NC 28277<br />
+                             <i class="fa fa-phone"></i> 1-704-448-1158<br />
+                             <i class="ss-fax"></i> (703) 564-0887<br>
+                        <strong>Internacional</strong>
+                        <b>Canadá::</b> 416-8001779<br />
+                        <b>Reino Unido:</b> 44-20-30261170<br />
+                        <b>Argentina:</b> 54-11-59176015<br />
+                        <b>Japão:</b> 81-3-45506929<br />
+                        <b>Itália:</b> 39-06-91657434<br />
+                        <b>México:</b> 52-55-13281855<br />
+                        <b>Espanha:</b> 34-93-1845000<br />
+                    </address>
+
+                    <address>
+                        <strong>Brazil - Escritórios</strong>
+                        Datelo Telecomunicações LTDA<br />
+Av. Luis Carlos Berrini, 1.140, 7.O Andar Conj. 72, Brooklin<br />
+São Paulo, SP 04571-000<br>
+                        <hr>
+                        Parlacom Telecomunicações e Informática LTDA<br />
+Rua Ernesto de Paula Santos, 960/102, Boa Viagem<br />
+Recife - PE 51021-330<br>
+                             <i class="fa fa-envelope"></i><a href="mailTo:sales@parlacom.net">sales @ parlacom.net</a><br />
+                             <i class="fa fa-envelope"></i><a href="mailTo:sales@datelo.com.br">sales @ datelo.com.br</a><br />
+                    </address>
+                    <address>
+                        <strong>Brazil - Telefones</strong>
+                           São Paulo 11.3230-2454<br />
+Rio de Janeiro 21.4042-2454<br />
+Recife 81.4042-1955<br />
+Belo Horizonte 31.4042-1790<br />
+                    </address>
+
+            </div>
+
+
+       
+      </div>
+   </div>
+   
+   <div class="copyright">
+   		<div class="wrapper">
+        	<p>© 2013 Parlacom, All Rights Reserved</p>
+        </div>
+   </div>
+
+</body>
+
+</html>
+
+ <!--Start of Zopim Live Chat Script-->
+        <script type="text/javascript">
+        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+        d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+        $.src='//v2.zopim.com/?2Wr5EcSY8DpDyEes8hxfM9UjwEYUmpbH';z.t=+new Date;$.
+        type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+        </script>
+        <!--End of Zopim Live Chat Script-->
+

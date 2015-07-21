@@ -1,0 +1,669 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,etc..."/>
+<meta name="keywords" content="mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel, etc..."/>
+<title>Parlacom | LeadingQuest</title>
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
+<script type="text/javascript" src="js/fwslider.js"></script>
+<script type="text/javascript" src="js/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="js/logo_perspective.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type='text/javascript' src='js/jquery.simplemodal.js'></script> 
+<script>
+ $(window).load( function() {
+	// Load dialog on page load
+		$('#basic-modal-content').modal();
+
+	// Load dialog on click
+	//$('#basic-modal .basic').click(function (e) {
+		//$('#basic-modal-content').modal();
+
+		return false;
+	//});
+});
+</script>
+</head>
+<body>
+	
+    <div id="basic-modal-content">
+    	 <div class="left-con">
+            	<span class="color">Apenas 88 centavos por SIMCARD por m&ecirc;s.**</span>
+			<img src="images/sim.png">
+		<br><h2>Gerencie seu SIMCARD M2M f&aacute;cil e rapidamente!<br /></h2> 
+<p>&nbsp;</p>               
+              <p>Siga apenas 3 passos:</p>
+                
+              <ul>
+              	   <li>Cadastre sua conta <span class="color3">online, sem custos,</span> no formul&aacute;rio ao lado </li>
+                   <li>Quando estiver pronto, pague a taxa &uacute;nica de ativa&ccedil;&atilde;o de 220 reais (para 250 SIMCARDS)</li>
+                   <li>Adicione e gerencie seus SIMCARDS em nossa plataforma web
+
+
+                        <form id="loginForm" method="post" action="https://www.parlacom.net/cgi-bin/parla">
+                                <input type="hidden" name="Function" value="FirstTime">
+                                <input type="hidden" name="output_type" value="html">
+                                <input type="hidden" name="Company" value="parla">
+                                <input type="hidden" name="na" value="no" />
+                            <input type="text" name="Admin" placeholder="Login" autocomplete="on" required style="margin-left:0px;">
+                            <input type="password" name="AdminPwd" placeholder="Senha" required>
+                            <button type="submit" id="button">login</button>
+                        </form>
+
+</li>
+
+
+
+           
+                   </ul>
+<br>              
+<br>              <p><span class="color3">Rápido!</span> Pre&ccedil;os v&aacute;lidos at&eacute; 30 de novembro. </p>
+              
+              
+              <p style="margin:15px 0 0 0;"><h3>** SIMCARD não está incluído, mas podemos ajudá-lo a contratar a operadora de sua preferência. 
+<a href="http://parlacom.net.br/pt/contatos.html" target="_blank">Clique para nos contatar.</a></h3></p>
+			<div class="promoA"> <img src="images/promoA.png"/></div>
+<div class="promoB"><img src="images/promoB.png" /></div>
+<div class="promoC"><img src="images/promoC.png" /></div>
+<div class="promoE"><img src="images/promoE.png" /></div>
+<div class="promoD"><img src="images/promoD.png" /></div>
+          </div>
+		   <div class="right-con">
+           			 <div class="form">
+                     		<h2>Crie seu Cadastro agora!</h2>
+                            
+           			<form action="http://www.parlacom.net/cgi-bin/parla" method="post" accept-charset="utf-8">
+                                <input type="hidden" name="Function" value="AddUser">
+                                <input type="hidden" name="output_type" value="html">
+                                <input type="hidden" name="Admin" value="leads">
+                                <input type="hidden" name="AgentLogin" value="leads">
+                                <input type="hidden" name="Address2" value="xxx">
+                                <input type="hidden" name="City" value="xxx">
+                                <input type="hidden" name="State" value="xx">
+                                <input type="hidden" name="ZIP" value="00000">
+                                <input type="hidden" name="country" value="USA">
+                                <input type="hidden" name="language" value="en">
+                                <input type="hidden" name="record" value="no">
+                                <input type="hidden" name="addedit" value="yes">
+                                <input type="hidden" name="owner" value="leads">
+                                <input type="hidden" name="invoicedate" value="28">
+                                <input type="hidden" name="usebank" value="yes">
+                                <input type="hidden" name="Mobile" value="0000000000">
+                                <input type="hidden" name="Company" value="parla">
+                                <input type="hidden" name="short" value="yes">
+        
+                                <input type="text" name="FirstName" placeholder="Seu Nome" autofocus required />
+                                <input type="text" name="Address1" placeholder="Razao Social" autofocus required />
+                                <input type="text" name="LastName" placeholder="CNPJ da Empresa" autofocus required />
+                                <input type="text" name="phone" placeholder="Seu Telefone" required />
+                                <input type="text" name="email" placeholder="Seu Email" required />
+                                
+                                <input type="submit" value="Submeter" id="button" />
+                		</form>
+                     </div>
+                     
+           </div>
+		</div>
+        
+	<div id="top">
+    	<div class="wrapper">
+        	
+        	<ul class="social">
+            	<li><a href="https://www.facebook.com/parlacom?ref=tn_tnmn" target="_blank"><img src="images/facebook.png" /></a></li>
+                <li><a href="https://plus.google.com/116985116471432359216/posts" target="_blank"><img src="images/gmail.png" /></a></li>
+                <li><a href="https://www.linkedin.com/company/parlacom-m2m?trk=top_nav_home" target="_blank"><img src="images/in.png" /></a></li>
+                <li><a href="https://twitter.com/leadingquest" target="_blank"><img src="images/twitter.png" /></a></li>
+            </ul>
+
+                 <ul class="languageopt">
+                        <li class="drop"><a href="/en"><img src="images/en.png" /> English</a><li>
+                       	<li><a href="/pt"><img src="images/port.png" /> Portuguese</a></li>
+ 				</ul>
+       	</div>
+    </div>
+    <div id="headermain">
+        	<div class="wrapper">
+            	<a href="index.html"><img src="images/logoorg.png" class="logo" alt="Parlacom" /></a><b>A Melhor Plataforma M2M do Mercado</b>
+                 <div class="searchcon">
+                	<div class="phone">
+                    	<span><i class="fa fa-envelope"></i> sales@parlacom.net</span>
+                     	<span><i class="fa fa-phone-square"></i> 11-30200909</span>
+                     </div>
+                     <div class="clr"></div>
+                 <div class="searchconthing"> 
+                    <span class="login"><a href="http://www.parlacom.net/login.html" target=_BLANK>Login</a></span>
+                    <span class="sign_up"><a href="#" target=_BLANK>Sign up</a></span>
+                    
+                   </div>
+                </div>
+            </div>
+        </div>
+	<div id="menucon">
+    	<div class="wrapper">
+        	<ul class="sf-menu">
+            	<li><a class="current" href="index.html">INICIO</a></li>
+                <li><a href="http://www.leadingquest.com/pt/">LEADINGQUEST</a></li>
+                <li class="drop"><a href="#">QUEM SOMOS</a>
+                	<ul>
+                    	 <li><a href="sobreparlacom.html">SOBRE PARLACOM</a></li>
+                         <li><a href="equipe.html">TIME EXECUTIVO</a></li>
+                         <li><a href="clientes.html">NOSSOS CLIENTES</a></li>
+                         <li><a href="parceiros.html">NOSSOS PARCEIROS</a></li>
+                    </ul>
+                </li>
+                <li class="drop"><a href="#">PORQUE PARLACOM</a>
+                	<ul>
+                    	 <li><a href="nossarede.html">NOSSA REDE</a></li>
+                         <li><a href="plataforma.html">NOSSA PLATAFORMA</a></li>
+                         <li><a href="mercuriusweb.html">MERCURIUS WEB</a></li>
+                         <li><a href="operadoras.html">CONECTIVIDADE</a></li>
+                    </ul>
+                </li>
+                <li class="drop"><a href="#">SERVICOS</a>
+                	   <ul>
+                    	   <li><a href="m2m.html">PLATAFORMA M2M</a></li>
+						   <li><a href="m2m_messaging.html">MENSAGENS SMS</a></li>
+                           <li><a href="aplicativosandroid.html">APLICATIVOS ANDROID & IPHONE</a></li>
+                           <li><a href="data_center_gerenciado.html">DATA CENTER GERENCIADO</a></li>
+                           <li><a href="pbxvirtual.html">PBX VIRTUAL E CALL CENTERS</a></li>
+                     </ul>
+                </li>
+                <li><a href="contatos.html">ENTRE EM CONTATO</a></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div id="fwslider">
+        <div class="slider_container">
+
+            <!-- ****************** STEP 3: ADD SLIDES ****************** -->
+            
+            <!-- Duplicate to create more slides -->
+            
+            <!-- /Duplicate to create more slides -->
+            
+            <!-- ****************** /STEP 3: ADD SLIDES ****************** -->
+            
+            <div class="slide">
+                <img src="images/slide_n.jpg" class="img">
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+                         <h4 class="title">Assistência Médica Inteligente</h4>
+                         	<div class="ban">
+                      <div class="ban_left">
+                      		<img src="images/women2.png" />
+                        <!--<div class="video">
+							<span class="anibg">
+                            	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
+                                <div class="clr"></div>
+                                <h2>The Customized Global M2M Solution</h2>
+                            </span>
+                        </div>-->
+                      </div>
+                      <div class="ban_right">
+                      		<h3>Saiba como a Parlacom pode revolucionar sua experiência M2M</h3>
+                            <ul>
+                            	<li><a href="offers.html">Nossa oferta</a></li>
+                                <li><a href="parlacomdifference.html">A diferença Parlacom</a></li>
+                                <li><a href="contatos.html">Comece hoje mesmo!</a></li>
+                            </ul>
+                      </div>
+                      <div class="clr"></div>
+<!--                      <strong class="bancontact" href="#"><i class="fa fa-phone"></i> 11-30200909</strong>-->
+                </div>
+                        <!---<p class="description">Pellentesque non neque egestas libero. Nam sed porta est. Vestibulum id massa eu odio rhoncus eleifend.</p>
+                        <a class="readmore" href="#">Learn More</a>-->
+                    </div>
+                </div>
+            </div><!--/slide -->
+
+            <div class="slide">
+                <img src="images/slide2_n.jpg" class="img">
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+                        <h4 class="title">Rastreamento de Frotas e Cargas</h4>
+                        <div class="ban">
+                      <div class="ban_left">
+                      		<img src="images/women2.png" />
+                        <!--<div class="video">
+							<span class="anibg">
+                            	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
+                                <div class="clr"></div>
+                                <h2>The Customized Global M2M Solution</h2>
+                            </span>
+                        </div>-->
+                      </div>
+                      <div class="ban_right">
+                      		<h3>Saiba como a Parlacom pode revolucionar sua experiência M2M</h3>
+                            <ul>
+                            	<li><a href="offers.html">Nossa oferta</a></li>
+                                <li><a href="parlacomdifference.html">A diferença Parlacom</a></li>
+                                <li><a href="contatos.html">Comece hoje mesmo!</a></li>
+                            </ul>
+                      </div>
+                      <div class="clr"></div>
+<!--                      <strong class="bancontact" href="#"><i class="fa fa-phone"></i> 11-30200909</strong>-->
+                </div>
+                        <!---<p class="description">Pellentesque non neque egestas libero. Nam sed porta est. Vestibulum id massa eu odio rhoncus eleifend.</p>
+                        <a class="readmore" href="#">Learn More</a>-->
+                    </div>
+                </div>
+            </div><!--/slide -->
+            
+             <div class="slide">
+                <img src="images/slide3_n.jpg" class="img">
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+                        <h4 class="title">Monitoramento Industrial</h4>
+                        <div class="ban">
+                      <div class="ban_left">
+                      		<img src="images/women2.png" />
+                        <!--<div class="video">
+							<span class="anibg">
+                            	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
+                                <div class="clr"></div>
+                                <h2>The Customized Global M2M Solution</h2>
+                            </span>
+                        </div>-->
+                      </div>
+                      <div class="ban_right">
+                      		<h3>Saiba como a Parlacom pode revolucionar sua experiência M2M</h3>
+                            <ul>
+                            	<li><a href="offers.html">Nossa oferta</a></li>
+                                <li><a href="parlacomdifference.html">A diferença Parlacom</a></li>
+                                <li><a href="contatos.html">Comece hoje mesmo!</a></li>
+                            </ul>
+                      </div>
+                      <div class="clr"></div>
+<!--                      <strong class="bancontact" href="#"><i class="fa fa-phone"></i> 11-30200909</strong>-->
+                </div>
+                        <!---<p class="description">Pellentesque non neque egestas libero. Nam sed porta est. Vestibulum id massa eu odio rhoncus eleifend.</p>
+                        <a class="readmore" href="#">Learn More</a>-->
+                    </div>
+                </div>
+            </div><!--/slide -->
+            
+             <div class="slide">
+                <img src="images/slide4_n.jpg" class="img">
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+                        <h4 class="title">Segurança e Vigilância Remota</h4>
+                        <div class="ban">
+                      <div class="ban_left">
+                      		<img src="images/women2.png" />
+                        <!--<div class="video">
+							<span class="anibg">
+                            	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
+                                <div class="clr"></div>
+                                <h2>The Customized Global M2M Solution</h2>
+                            </span>
+                        </div>-->
+                      </div>
+                      <div class="ban_right">
+                      		<h3>Saiba como a Parlacom pode revolucionar sua experiência M2M</h3>
+                            <ul>
+                            	<li><a href="offers.html">Nossa oferta</a></li>
+                                <li><a href="parlacomdifference.html">A diferença Parlacom</a></li>
+                                <li><a href="contatos.html">Comece hoje mesmo!</a></li>
+                            </ul>
+                      </div>
+                      <div class="clr"></div>
+<!--                      <strong class="bancontact" href="#"><i class="fa fa-phone"></i> 11-30200909</strong>-->
+                </div>
+                        <!---<p class="description">Pellentesque non neque egestas libero. Nam sed porta est. Vestibulum id massa eu odio rhoncus eleifend.</p>
+                        <a class="readmore" href="#">Learn More</a>-->
+                    </div>
+                </div>
+            </div><!--/slide -->
+            
+             <div class="slide">
+                <img src="images/slide5_n.jpg" class="img">
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+                        <h4 class="title">Pagamento e Transações</h4>
+                        <div class="ban">
+                      <div class="ban_left">
+                      		<img src="images/women2.png" />
+                        <!--<div class="video">
+							<span class="anibg">
+                            	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
+                                <div class="clr"></div>
+                                <h2>The Customized Global M2M Solution</h2>
+                            </span>
+                        </div>-->
+                      </div>
+                      <div class="ban_right">
+                      		<h3>Saiba como a Parlacom pode revolucionar sua experiência M2M</h3>
+                            <ul>
+                            	<li><a href="offers.html">Nossa oferta</a></li>
+                                <li><a href="parlacomdifference.html">A diferença Parlacom</a></li>
+                                <li><a href="contatos.html">Comece hoje mesmo!</a></li>
+                            </ul>
+                      </div>
+                      <div class="clr"></div>
+<!--                      <strong class="bancontact" href="#"><i class="fa fa-phone"></i> 11-30200909</strong>-->
+                </div>
+                        <!---<p class="description">Pellentesque non neque egestas libero. Nam sed porta est. Vestibulum id massa eu odio rhoncus eleifend.</p>
+                        <a class="readmore" href="#">Learn More</a>-->
+                    </div>
+                </div>
+            </div><!--/slide -->
+
+
+        </div>
+
+        <div class="timers"></div>
+
+        <div class="slidePrev"><span></span></div>
+        <div class="slideNext"><span></span></div>
+      
+
+    </div> <!--/slider -->
+    
+    	<div class="maincontent">
+        	<div class="wrapper">
+            	<div class="home_leftcon">
+                	<h1 class="mainhead">Plataforma M2M baseada na nuvem</h1>
+                    <p class="paracom_style">
+                    		<b style="font-size:20px; display:block; margin-bottom:15px;"></b>
+
+                    		Escolher o parceiro M2M certo para o seu negócio é uma grande decisão. Como um dos maiores reprodutores M2M no Brasil, gerenciando mais de 200 mil simcards em todo o país, a Parlacom oferece rede M2M mundial e gerenciamento através de nossa plataforma em nuvem de última geração.<br>
+<br>
+ Trabalhando em conjunto com as maiores operadoras de telefonia móvel do mundo, nós oferecemos aos nossos clientes as ferramentas M2M para gerenciar seus serviços de rastreamento GPS, automação de vendas, sistemas de segurança, gateways de pagamento dedicados e muito mais. Para os clientes avançados, oferecemos um pacote completo e rico de APIs, permitindo que qualquer aplicativo de terceiros (ERP, CRM) seja totalmente integrado com a Plataforma M2M inovadora da Parlacom.<br />
+<br />
+
+Nós gerenciamos cada cartão SIM individual para lhe oferecer o máximo controle e proteção do tráfego de dados por comunicações GPRS, 4G, 3G e Intranets corporativas. Nossos clientes têm acesso ao nosso sofisticado aplicativo web M2M. Você vai descobrir que é fácil monitorar e gerenciar o uso de dados de sua empresa a partir nosso portal on-line. Além disso:<br />
+<br />
+
+
+<ul class="clientschoice">
+
+<li><i class="fa fa-dot-circle-o"></i>Trabalhamos com as mais recentes tecnologias para oferecer uma Plataforma completa para todas as suas necessidades de Dados e Voz.</li>
+<li><i class="fa fa-dot-circle-o"></i>Nosso conjunto completo de APIs fornece uma forma rápida de integrar completamente todos os aplicativos de terceiros (OSS/BSS).</li>
+<li><i class="fa fa-dot-circle-o"></i>Você tem total visibilidade e acesso em tempo real a cada um de seus simcards, em qualquer lugar do mundo, em qualquer momento.</li>
+<li><i class="fa fa-dot-circle-o"></i>Com as nossas ferramentas de diagnóstico e monitoramento, você tem total visibilidade do que está acontecendo com o seus simcards.</li>
+<li><i class="fa fa-dot-circle-o"></i>Todas as operadoras são tratadas de uma maneira uniforme. Você pode ativar, desativar e configurar qualquer simcard, independentemente da tecnologia subjacente</li>
+<li><i class="fa fa-dot-circle-o"></i>Vivemos e respiramos M2M. Nossa equipe tem décadas de experiência em telecomunicações e desenvolvimento de software</li>
+</ul>
+
+<br><div class="clr"></div>
+
+
+                    </p>
+                    
+                    <p class="paracom_style" style="font-size:16px;"><strong>Trabalhamos com as maiores operadoras móveis do Brasil</strong></p>
+                    
+                    <ul class="operators">
+                    	<li><img src="images/vivo.jpg" /></li>
+                        <li><img src="images/claro.jpg" /></li>
+                        <li><img src="images/oi.jpg" /></li>
+                        <li><img src="images/tim.jpg" /></li>
+                    </ul>
+                  <!--  <a class="readmore"><b>&raquo;</b> Read more</a>-->
+                </div>
+                
+                <div class="home_rightcon">
+                	<div>
+                	 <span class="mainhead">Links Rápidos</span><br /><br />
+                	  
+                	</div>
+                    <ul id="ticker" class="tick">
+                        
+                    	<li>
+                          <span class="cal">
+                        		
+                          </span>
+                        <span class="press_content"><a href="whitepapers.html" target=_BLANK>Whitepapers</a></span>
+                    	</li>
+                    
+                    	<li>
+                          <span class="cal">
+                        	
+                          </span>
+                        <span class="press_content"><a href="artigos.html" target=_BLANK>Notícias e Imprensa</a></span>
+                        </li>
+                        
+                        <li>
+                          <span class="cal">
+                        	
+                          </span>
+                        <span class="press_content"><a href="listaprecos.html" target=_BLANK>Tabela de Preços</a></span>
+                        </li>
+                        
+                         <li>
+                          <span class="cal">
+                        	
+                          </span>
+                        <span class="press_content"><a href="documentostecnicos.html" target=_BLANK>Documentos Técnicos</a></span>
+                        </li>
+					 	<li>
+                          <span class="cal">
+                        		
+                          </span>
+                        <span class="press_content"><a href="atualizacoesdoproduto.html" target=_BLANK>ATUALIZAÇÕES DO PRODUTO</a></span>
+</li>
+
+                        <li>
+                          <span class="cal">
+                        	
+                          </span>
+                        <span class="press_content"><a href="faqsajuda.html" target=_BLANK>FAQs &amp; Ajuda </a></span>
+                        </li>
+
+                    </ul>
+                      <ul class="app">
+                	
+                    <li><a href="https://play.google.com/store/apps/developer?id=Parlacom%20LTDA&hl=en" target="_blank"><i class="fa fa-android"></i><small>Baixar Apps Parlacom na</small>Google Store</a></li>
+                    
+                </ul>
+                    
+                     
+                     <div class="clr"></div>
+                     
+                     
+                </div>
+                
+
+
+                
+                <a class="pdf" target="_blank" href="http://www.parlacom.net.br/M2M.pdf"><img src="images/PDF.png" />Clique aqui
+
+para baixar a apresentação PDF<br />
+ da plataforma M2M.</a>
+            </div>
+        </div>
+        
+        <div class="midcon">
+        	<div class="wrapper">
+            	<h2 class="iconhead">As Melhores Soluções M2M Para a Sua Indústria</h2>
+                <ul class="mainicons">
+                	<li><a href="transportespublicos.html"><img src="images/icn9.png" /></a>
+                    	<span>Transporte público</span>
+					</li>
+                	<li><a href="sistemaspagamento.html"><img src="images/icn1.png" border="0" /></a>
+                    	<span>Sistemas de pagamento, usando terminais de pontos de venda</span>
+			    </li>
+                    <li><a href="rastreamentogps.html"><img src="images/icn2.png" /></a>
+                    	<span>Empresas de rastreamento de veículos GPS</span>
+					</li>
+                    <div class="clr"></div>
+                    <li><a href="empresaspublicas.html"><img src="images/icn3.png" /></a>
+                    	<span>Empresas de serviços públicos de gás natural</span>
+					</li>
+                    <li><a href="seguranca.html"><img src="images/icn4.png" /></a>
+                    	<span>As empresas de segurança e proteção de ativos</span>
+					</li>
+                    <li><a href="automacaoforcavendas.html"><img src="images/icn5.png" /></a>
+                    	<span>Automação da força de vendas</span>
+					</li>
+                    <div class="clr"></div>
+                    <li><a href="redesinteligentes.html"><img src="images/icn6.png" /></a>
+                    	<span>Redes Inteligentes para empresas de serviços públicos</span>
+					</li>
+                    <li><a href="cibermedicina.html"><img src="images/icn7.png" /></a>
+                    	<span>Cibermedicina</span>
+					</li>
+                    <li><a href="cartoes_sim.html"><img src="images/icn8.png" /></a>
+                    	<span>Gestão de cartões SIM</span>
+					</li>
+                </ul>
+            </div>
+        </div>
+        
+        <script>
+		$(function() {
+
+			jQuery('#logo_perspective_black').logo_perspective({
+				skin: 'black',
+				width: 1100,
+				responsive:true,
+				imageWidth:130,
+				imageHeight:100,
+				border:1,
+				borderColorOFF:'#000000',
+				showTooltip:false,
+				elementsHorizontalSpacing:180,
+				elementsVerticalSpacing:0,
+				autoPlay: 3,
+				numberOfVisibleItems:5
+			});			
+			
+		});
+	</script>
+		<div id="clientscon">
+        	<div class="wrapper">
+            	<h2 class="clienthead">Nossos Serviços</h2>
+              <div class="clients">
+                <div id="logo_perspective_black">
+                        <ul class="logo_perspective_list">
+                              <li><i class="fa fa-signal" style="font-size:60px; color:#666; margin-bottom:7px;"></i><br />
+                                <a href="#" style="color:#ec7410; font-size:13px;">Plataforma M2M</a></li>
+                                
+                              <li><i class="fa fa-envelope" style="font-size:60px; color:#666; position:relative; left:15px; margin-bottom:7px;"></i><br />
+                                <a href="#" style="color:#ec7410;  font-size:13px;">Mensagens sms</a></li>
+                                
+                              <li><i class="fa fa-android" style="font-size:60px; color:#666; position:relative; left:25px; margin-bottom:7px;"></i><br />
+                                <a href="#" style="color:#ec7410; font-size:13px;">Aplicativos Android & Iphone</a></li>
+                                
+                              <li><i class="fa fa-folder-open"  style="font-size:60px; color:#666; position:relative; left:20px; margin-bottom:7px;"></i><br />
+                              
+                                <a href="#" style="color:#ec7410; font-size:13px; position:relative; text-align:center;">Data Center Gerenciado</a></li>
+                                
+                              <li><i class="fa fa-sitemap" style="font-size:60px; color:#666; margin-bottom:7px; position:relative; left:15px;"></i><br />
+                                <a href="#" style="color:#ec7410; font-size:13px;">Virtual PBX e<br />
+ Call Centers</a></li>
+
+                      </ul>              	
+			</div>
+            </div>
+           </div>
+        </div>
+        
+        <div class="clr"></div>
+        
+ 	   <div id="footer_new">
+   	   <div class="wrapper">
+       		<div class="quicklink">
+            		<h4>Mapa do Site</h4>
+            	<ul>
+                	<li><i class="fa fa-chevron-right"></i> <a href="index.html">INICIO</a></li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">QUEM SOMOS</a>
+                    	<ul>
+                        	<li><i class="fa fa-circle"></i> <a href="sobreparlacom.html">SOBRE PARLACOM</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="equipe.html">TIME EXECUTIVO</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="clientes.html">NOSSOS CLIENTES</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="parceiros.html">NOSSOS PARCEIROS</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">PORQUE PARLACOM</a>
+                    	<ul>
+                       	  <li><i class="fa fa-circle"></i> <a href="nossarede.html">NOSSA REDE</a></li>
+                          <li><i class="fa fa-circle"></i> <a href="plataforma.html">NOSSA PLATFORMA</a></li>
+                          <li><i class="fa fa-circle"></i> <a href="mercuriusweb.html">MERCURIUS WEB</a></li>
+                          <li><a href="carrier_inter.html"></a><i class="fa fa-circle"></i> <a href="operadoras.html">CONECTIVIDADE</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">SERVICOS</a>
+                    	<ul>
+                       	  <li><i class="fa fa-circle"></i> <a href="m2m.html">PLATFORMA M2M</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="m2m_messaging.html">MENSAGENS SMS</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="aplicativosandroid.html">APLICATIVOS ANDROID &amp; IPHONE</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="data_center_gerenciado.html">DATA CENTER GERENCIADO</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="pbxvirtual.html">PBX VIRTUAL E CALL CENTERS</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="contatos.html">ENTRE EM CONTATO</a></li>
+                </ul>
+            </div>
+     <div class="contact_info">
+                        <h5>Nossos Contatos</h5>
+                    <address>
+                    	<strong>EUA</strong>
+                       LeadingQuest LLC<br />
+11220 Elm Lane, Suite 200<br />
+Charlotte, NC 28277<br />
+                             <i class="fa fa-phone"></i> 1-704-448-1158<br />
+                             <i class="ss-fax"></i> (703) 564-0887<br>
+                        <strong>Internacional</strong>
+                        <b>Canadá::</b> 514-6670356<br />
+                        <b>Reino Unido:</b> 44-20-30261170<br />
+                        <b>Argentina:</b> 54-11-59176015<br />
+                        <b>Japão:</b> 81-3-45506929<br />
+                        <b>Itália:</b> 39-06-91657434<br />
+                        <b>México:</b> 52-55-13281855<br />
+                        <b>Espanha:</b> 34-93-1845000<br />
+                    </address>
+
+                    <address>
+                        <strong>Brazil - Escritórios</strong>
+                        Datelo Telecomunicações LTDA<br />
+Av. Luis Carlos Berrini, 1.140, 7.O Andar Conj. 72, Brooklin<br />
+São Paulo, SP 04571-000<br>
+                        <hr>
+                        Parlacom Telecomunicações e Informática LTDA<br />
+Rua Ernesto de Paula Santos, 960/102, Boa Viagem<br />
+Recife - PE 51021-330<br>
+                             <i class="fa fa-envelope"></i><a href="mailTo:sales@parlacom.net">sales @ parlacom.net</a><br />
+                             <i class="fa fa-envelope"></i><a href="mailTo:sales@datelo.com.br">sales @ datelo.com.br</a><br />
+                             <i class="ss-fax"></i> (703) 564-0887<br />
+                    </address>
+                    <address>
+                        <strong>Brazil - Telefones</strong>
+                        São Paulo 11.3020-0909<br />
+Rio de Janeiro 21.3717-0909<br />
+Recife 81.3717-0909<br />
+Belo Horizonte 31.3917-0909<br />
+Porto Alegre 51.3251-0909<br />
+Brasília 61.3010-0909<br />
+Salvador 71-37170909<br />
+Maceió 82-3517-0909<br />
+João Pessoa 83.3517-0909<br />
+Fortaleza 85.3517-0909<br>
+                    </address>
+
+            </div>
+
+
+       
+      </div>
+   </div>
+   
+   <div class="copyright">
+   		<div class="wrapper">
+        	<p>© 2013 Parlacom, All Rights Reserved</p>
+        </div>
+   </div>
+
+</body>
+	<script>
+		$('ul.mainicons li').find('a').hover( function () {
+			$(this).addClass('active');
+		}, function() {
+			$(this).removeClass('active');
+		});
+	</script>
+</html>

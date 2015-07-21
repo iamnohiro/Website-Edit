@@ -1,0 +1,399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>White Paper: Alavancando o Data Center Gerenciado | Parlacom</title>
+<meta name="description" content="Serviços de Dados Gerenciados são facilidades, componentes e atividades relacionadas com tecnologia, que são suporte a projetos e operações de um data center."/>
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<!--<script type="text/javascript" src="js/jquery.accordion.js"></script>
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('.accordion').accordion({defaultOpen: 'section1'}); //some_id section1 in org
+        });
+ </script>-->
+</head>
+<body>
+	<div id="top">
+    	<div class="wrapper">
+        	
+        		<ul class="social">
+            	<li><a href="https://www.facebook.com/parlacom?ref=tn_tnmn" target="_blank"><img src="images/facebook.png" /></a></li>
+                <li><a href="https://plus.google.com/116985116471432359216/posts" target="_blank"><img src="images/gmail.png" /></a></li>
+                <li><a href="https://www.linkedin.com/company/parlacom-m2m?trk=top_nav_home" target="_blank"><img src="images/in.png" /></a></li>
+                <li><a href="https://twitter.com/ParlacomBrasil" target="_blank"><img src="images/twitter.png" /></a></li>
+            </ul>
+
+                 <ul class="languageopt">
+                        <li class="drop"><a href="/en"><img src="images/en.png" /> English</a><li>
+                       	<li><a href="/pt"><img src="images/port.png" /> Português</a></li>
+ 				</ul>
+       	</div>
+    </div>
+    <div id="headermain">
+        	<div class="wrapper">
+            	<a href="index.html"><img src="images/logoorg.png" class="logo" alt="Parlacom" /></a><b>A Melhor Plataforma M2M do Mercado</b>
+                 <div class="searchcon">
+                	<div class="phone">
+                    	<span><i class="fa fa-envelope"></i> sales@parlacom.net</span>
+                     	<span><i class="fa fa-phone-square"></i> 11-30200909</span>
+                     </div>
+                     <div class="clr"></div><div class="searchconthing"> 
+                    <span class="login"><a href="http://www.parlacom.net/login.html" target=_BLANK>Login</a></span>
+                    <span class="sign_up"><a href="#" target=_BLANK>Sign up</a></span>
+                    
+                   </div>
+                </div>
+            </div>
+        </div>
+	<div id="menucon">
+    	<div class="wrapper">
+        		<ul class="sf-menu">
+            	<li><a href="index.html">INICIO</a></li>
+               
+                <li class="drop"><a href="#">QUEM SOMOS</a>
+                	<ul>
+                    	 <li><a href="sobreparlacom.html">SOBRE PARLACOM</a></li>
+                         <li><a href="equipe.html">TIME EXECUTIVO</a></li>
+                         <li><a href="clientes.html">NOSSOS CLIENTES</a></li>
+                         <li><a href="parceiros.html">NOSSOS PARCEIROS</a></li>
+                         <li><a href="index.html">LEADINGQUEST</a></li>
+                    </ul>
+                </li>
+                <li class="drop"><a href="#">PORQUE PARLACOM</a>
+                	<ul>
+                    	 <li><a href="nossarede.html">NOSSA REDE</a></li>
+                         <li><a href="plataforma.html">NOSSA PLATAFORMA</a></li>
+                         <li><a href="mercuriusweb.html">MERCURIUS WEB</a></li>
+                         <li><a href="operadoras.html">CONECTIVIDADE</a></li>
+                    </ul>
+                </li>
+                <li class="drop"><a href="#">SERVICOS</a>
+                	   <ul>
+                    	   <li><a href="m2m.html">PLATAFORMA M2M</a></li>
+						   <li><a href="m2m_messaging.html">MENSAGENS SMS</a></li>
+                           <li><a href="aplicativosandroid.html">APLICATIVOS ANDROID & IPHONE</a></li>
+                           <li><a href="data_center_gerenciado.html">DATA CENTER GERENCIADO</a></li>
+                           <li><a href="pbxvirtual.html">PBX VIRTUAL E CALL CENTERS</a></li>
+                     </ul>
+                </li>
+                <li class="drop"><a class="current" href="#">RECURSOS</a>
+                    <ul>
+                      <li><a href="artigos.html">NOTÍCIAS E IMPRENSA</a></li>
+                      <li><a href="whitepapers.html">WHITEPAPERS</a></li>
+                      <li><a href="listaprecos.html">TABELA DE PREÇOS</a></li>
+                      <li><a href="documentostecnicos.html">DOCUMENTOS TÉCNICOS</a></li>
+                      <li><a href="atualizacoesdoproduto.html">ATUALIZAÇÕES DO PRODUTO</a></li>
+                      <li><a href="faqsajuda.html">FAQS & AJUDA</a></li>
+                    </ul>
+                  </li>
+                <li><a href="contatos.html">ENTRE EM CONTATO</a></li>
+            </ul>
+        </div>
+    </div>
+    
+    
+
+    
+    	<div class="innercontent">
+        	<div class="wrapper">
+            <h4 class="teamhead">White Paper: Alavancando o Data Center Gerenciado da</h4>
+            	<div class="inner_con">
+                
+                      <img src="images/managedatacenter.jpg" style="float:left;  margin:0 15px 15px 0; box-shadow:0 0 8px rgba(0, 0, 0, 0.2);" />
+                
+                
+
+                              <p class="paracom_style">
+                        
+   				Um Data Center é uma facilidade usada para conservar sistemas de computador e os componentes associados. Estes sistemas podem 
+incluir equipamento de telecomunicação e armazenamento, e também equipamentos de redundância, fontes de energia de segurança (backup), conexões de dados de reserva, controlos de ambiente e aplicativos. Entretanto, Serviços de Dados Gerenciados são facilidades, componentes e atividades relacionadas com tecnologia, que são suporte a projetos e operações de um data center. Geralmente, se dividem em duas categorias: serviços para data centers e serviços de apoio a data centers.
+
+</p>
+
+  <div class="clr"></div>
+
+                    
+                     <p class="paracom_style">
+           Uma das maiores preocupações da empresa é assegurar a continuação do negócio, pois ela depende bastante de seus sistemas. Habitualmente os serviços dos Data Centers incluem, mas não estão limitados a:
+					 </p>
+                                            
+                          <ul class="clientschoice">
+                      
+ 
+                      			<li><i class="fa fa-dot-circle-o"></i> Suporte Técnico</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Serviços de Consultoria Técnica</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Serviços de Terceirização</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Serviços de Aplicativos</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Serviços de Treinamento Técnico</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Serviços de Financiamento e Leasing</li>
+                                
+  
+                           </ul>
+                           
+                           <div class="clr"></div>
+                                            
+                        <img src="images/datacentermarket.jpg" style="float:right; margin-left:15px;" />
+                        <strong style="font-size:16px; margin:15px 0; display:block; line-height:25px; color:#ec7410">Visão Geral de Mercado</strong>
+                        
+                       <p class="paracom_style">
+                  O mercado de Serviços de Data Center Gerenciados tem ganho muita importância nos anos mais recentes, principalmente devido à 
+adoção de plataformas cloud-based e à implantação bem sucedida de serviços cloud-based.
+</p>
+
+		 <p class="paracom_style">
+        	Atualmente, pequenas e médias empresas estão manifestando grande interesse no outsourcing dos seus serviços IT para fornecedores de 
+
+terceiros. As organizações estão se voltando para serviços gerenciados na construção do seu lucro e para diminuir suas despesas.<br />
+<br />
+O <b>mercado Norte Americano</b> se tornou no <b>maior mercado em serviços gerenciados</b>, o que representou <b>35.08% do volume total</b>
+Junto com a Europa, representou cerca de 63% do mercado global.
+        </p>
+
+<div class="clr"></div>
+
+<strong style="font-size:25px; margin:15px 0 25px 0; display:block; line-height:25px; color:#ec7410">Uma Previsão de uma Pesquisa de Mercado 
+
+mostra que:<br />
+
+"Serviços de Data Center Gerenciados terão uma CAGR de 21.4% no período de cinco anos, de 2013 até 2018."</strong>
+
+					
+
+<div class="clr"></div>    
+ 
+
+      
+                     <div class="clr"></div> 
+                     
+                     <strong style="font-size:16px; margin:15px 0; display:block; color:#ec7410">O Que Nós Oferecemos?</strong>
+                     
+                       <p class="paracom_style">O nosso Data Center Gerenciado é um recurso importante para negócios baseados em tecnologia 
+para operações diárias. Nós mantemos seus dados prontamente disponíveis e totalmente seguros. Com nossos serviços de 
+armazenamento, você pode reduzir custos e descansar tranquilamente, pois seus dados têm sempre backup e estão totalmente protegidos. É 
+por isso que a Parlacom, powered by LeadingQuest, oferece um Data Center Gerenciado altamente recomendado para vários ambientes.<br />
+<br />
+
+Nosso Data Center Gerenciado é rico em características, tem várias configurações para diferentes ambientes, altamente costumizáveis 
+para satisfazer suas necessidades específicas de utilização e de negócio. Mais importante, oferece uma rede confiável de alto desempenho, ideal 
+para pequenas, médias ou grandes empresas em crescimento rápido. É ideal também para negócios com variações de tráfego e utilização.</p>
+                     
+                     
+                     
+                    <img src="images/featuresdatacenter.jpg" style="float:left; margin:0 15px 20px 0;" /> 
+                    
+
+                      <ul class="clientschoice" style="margin-right:35px;">
+                      
+                      <strong style="font-size:16px; margin:15px 0; display:inline-block; color:#ec7410">Características Básicas:</strong>
+ 
+                      			<li><i class="fa fa-dot-circle-o"></i> Base de Dados Gerenciada</li>
+
+								<li><i class="fa fa-dot-circle-o"></i>Armazenamento Gerenciado</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i>Nuvem Privada e Dedicada</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i>Backup Gerenciado</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i>Relatórios Fáceis</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i>Plataforma de Gestão e Interface de </li>
+								
+								<li><i class="fa fa-dot-circle-o"></i>Usuário Totalmente Web-based</li>
+
+              
+                           </ul>
+                                          
+  
+                           <ul class="clientschoice">
+                           
+                            <strong style="font-size:16px; margin:15px 0; display:block; color:#ec7410">O Que Você Consegue?</strong>
+                      
+                                
+                      			<li><i class="fa fa-dot-circle-o"></i> Segurança e Paz de Espírito.</li>
+
+								<li><i class="fa fa-dot-circle-o"></i> Baixa Latência e Alta Disponibilidade.</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Planos Costumizados, Feitos Apenas Para Você.</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Sem Requesitos de Hardware.</li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Aplicativos 100% Web-based. </li>
+								
+								<li><i class="fa fa-dot-circle-o"></i> Suporte 24 horas por dia, 7 dias por semana.</li>
+
+
+								</ul>
+                                
+                                
+                                <div class="clr"></div>
+                                
+ 								
+								<strong style="font-size:16px; margin:15px 0; display:block; color:#ec7410">A Promessa da Parlacom</strong>
+
+</p>
+								
+                            
+						
+                        <ul class="clientschoice">
+                      
+						 <img src="images/benefits.jpg" style="float:right; margin:0 0 20px 15px;" />   
+                      			<li><i class="fa fa-dot-circle-o"></i> <b>Levamos a Segurança a Sério</b>. Quando se trata do seu negócio, não há espaço para hackers ou falhas de computador. Isto pode lhe custar milhares de reais e semanas de produtividade. É por isso que oferecemos um Data Ceter Gerenciado para salvar seus ficheiros (backup) e assegurar que toda sua informação vital está segura e disponível de forma instantânea, através de nossa plataforma cloud única.</li>
+
+                               <li><i class="fa fa-dot-circle-o"></i> <b> Evite Interrupções de Alto Custo</b>. Se seu negócio depende da conectividade, então um dispositivo falhando pode levar todas suas operações a bloquear. Na Parlacom, ajudamo-lo a prevenir interrupções caras fazendo cópias de segurança de todos os seus dados através de nossa plataforma.</li>
+                                
+                               <li><i class="fa fa-dot-circle-o"></i> <b>Evite Planos com Preços Demasiado Altos</b>. Se você está preocupado que empregar um hosted data center, que pode ir de encontro a todas suas necessidades de negócio, é muito caro ou fora do orçamento, a Parlacom lhe dá a opção de personalizar as características do seu plano para encaixar em seu orçamento.</li>
+
+		
+                                <li><i class="fa fa-dot-circle-o"></i> <b>Libertamos Seus Recursos</b>. O nosso Data Center Gerenciado permite a você eliminar servidores e correr toda as operações através de um data center central. Isto consolida toda sua tecnologia numa simples plataforma, lhe dá fácil acesso a dispositivos de gerenciamento e reduz custos gerais de computação.</li>
+                                
+                                 <li><i class="fa fa-dot-circle-o"></i> <b>Garantimos o Roll Out Mais Rápido</b>. Nossa plataforma M2M cloud-based torna possível desfrutar das vantages máquina-a-máquina sem requisitos de infraestrutura para o cliente. E porque tem uma configuração e um sistema de gerenciamento web-based, você pode acessá-lo onde estiver.</li>
+                                 
+							    <li><i class="fa fa-dot-circle-o"></i> <b>Você Está em Boas Mãos</b>. Lideramos uma equipe de experientes engenheiros de software e especialistas em várias plataformas, certificados internacionalmente e com uma compreensão abrangente de suas necessidades de resolução de problemas.</li>
+                                
+                       
+              
+                           </ul>
+                           
+                           <div class="clr"></div>
+                         
+ 
+                            <strong style="font-size:16px; margin:15px 0; display:block; color:#ec7410">Ligue Agora!</strong>
+                           
+                            <p class="paracom_style">
+							<b>Parlacom</b>, powered by LeadingQuest, reconhece a procura de soluções de baixo custo geradoras de 
+receitas. Estamos aqui para entregar essas soluções à sua porta. <b>LeadingQuest</b> é uma empresa de Telecomunicações e Tecnologia, com 
+sede nos Estados Unidos e agências no Brasil.<br />
+<br />
+
+Para saber mais sobre os produtos e serviços da LeadingQuest's, por favor visite nosso website: <a href="http://www.leadingquest.com" target="_blank">www.leadingquest.com</a> ou <a href="http://parlacom.net" target="_blank">www.parlacom.net</a>. Pode também enviar-nos um email para <a href="mailto:sales@leadingquest.com" target="_blank">sales@leadingquest.com</a> ou nos contatar no número 1-704-448-1158.
+                          </p>
+
+                <div class="clr"></div>
+                      
+                      
+            </div>
+        </div>
+        
+      </div>
+    
+        
+	   
+	   <div id="footer_new">
+   	   <div class="wrapper">
+       		<div class="quicklink">
+            		<h4>Mapa do Site</h4>
+            	<ul>
+                	<li><i class="fa fa-chevron-right"></i> <a href="index.html">INICIO</a></li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">QUEM SOMOS</a>
+                    	<ul>
+                        	<li><i class="fa fa-circle"></i> <a href="sobreparlacom.html">SOBRE PARLACOM</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="equipe.html">TIME EXECUTIVO</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="clientes.html">NOSSOS CLIENTES</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="parceiros.html">NOSSOS PARCEIROS</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">PORQUE PARLACOM</a>
+                    	<ul>
+                       	  <li><i class="fa fa-circle"></i> <a href="nossarede.html">NOSSA REDE</a></li>
+                          <li><i class="fa fa-circle"></i> <a href="plataforma.html">NOSSA PLATFORMA</a></li>
+                          <li><i class="fa fa-circle"></i> <a href="mercuriusweb.html">MERCURIUS WEB</a></li>
+                          <li><a href="carrier_inter.html"></a><i class="fa fa-circle"></i> <a href="operadoras.html">CONECTIVIDADE</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="#">SERVICOS</a>
+                    	<ul>
+                       	  <li><i class="fa fa-circle"></i> <a href="m2m.html">PLATFORMA M2M</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="m2m_messaging.html">MENSAGENS SMS</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="aplicativosandroid.html">APLICATIVOS ANDROID &amp; IPHONE</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="data_center_gerenciado.html">DATA CENTER GERENCIADO</a></li>
+                            <li><i class="fa fa-circle"></i> <a href="pbxvirtual.html">PBX VIRTUAL E CALL CENTERS</a></li>
+                        </ul>
+                    </li>
+                    <li><i class="fa fa-chevron-right"></i><a href="#">RECURSOS</a>
+                       		<ul>
+                                <li><i class="fa fa-circle"></i> <a href="artigos.html">NOTÍCIAS E IMPRENSA</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="whitepapers.html">WHITEPAPERS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="contratos.html">CONTRATOS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="listaprecos.html">TABELA DE PREÇOS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="documentostecnicos.html">DOCUMENTOS TÉCNICOS</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="atualizacoesdoproduto.html">ATUALIZAÇÕES DO PRODUTO</a></li>
+                                <li><i class="fa fa-circle"></i> <a href="faqsajuda.html">FAQS & AJUDA</a></li>
+                            </ul>
+                       </li>
+                    <li><i class="fa fa-chevron-right"></i> <a href="contatos.html">ENTRE EM CONTATO</a></li>
+                </ul>
+            </div>
+     <div class="contact_info">
+                        <h5>Nossos Contatos</h5>
+                    <address>
+                    	<strong>EUA</strong>
+                       LeadingQuest LLC<br />
+11220 Elm Lane, Suite 200<br />
+Charlotte, NC 28277<br />
+                             <i class="fa fa-phone"></i> 1-704-448-1158<br />
+                             <i class="ss-fax"></i> (703) 564-0887<br>
+                        <strong>Internacional</strong>
+                        <b>Canadá::</b> 514-6670356<br />
+                        <b>Reino Unido:</b> 44-20-30261170<br />
+                        <b>Argentina:</b> 54-11-59176015<br />
+                        <b>Japão:</b> 81-3-45506929<br />
+                        <b>Itália:</b> 39-06-91657434<br />
+                        <b>México:</b> 52-55-13281855<br />
+                        <b>Espanha:</b> 34-93-1845000<br />
+                    </address>
+
+                    <address>
+                        <strong>Brazil - Escritórios</strong>
+                        Datelo Telecomunicações LTDA<br />
+Av. Luis Carlos Berrini, 1.140, 7.O Andar Conj. 72, Brooklin<br />
+São Paulo, SP 04571-000<br>
+                        <hr>
+                        Parlacom Telecomunicações e Informática LTDA<br />
+Rua Ernesto de Paula Santos, 960/102, Boa Viagem<br />
+Recife - PE 51021-330<br>
+                             <i class="fa fa-envelope"></i><a href="mailTo:sales@parlacom.net">sales @ parlacom.net</a><br />
+                             <i class="fa fa-envelope"></i><a href="mailTo:sales@datelo.com.br">sales @ datelo.com.br</a><br />
+                             <i class="ss-fax"></i> (703) 564-0887<br />
+                    </address>
+                    <address>
+                        <strong>Brazil - Telefones</strong>
+                        São Paulo 11.3020-0909<br />
+Rio de Janeiro 21.3717-0909<br />
+Recife 81.3717-0909<br />
+Belo Horizonte 31.3917-0909<br />
+Porto Alegre 51.3251-0909<br />
+Brasília 61.3010-0909<br />
+Salvador 71-37170909<br />
+Maceió 82-3517-0909<br />
+João Pessoa 83.3517-0909<br />
+Fortaleza 85.3517-0909<br>
+                    </address>
+
+            </div>
+
+
+       
+      </div>
+   </div>
+   
+   <div class="copyright">
+   		<div class="wrapper">
+        	<p>© 2013 Parlacom, All Rights Reserved</p>
+        </div>
+   </div>
+   
+   <div class="copyright">
+   		<div class="wrapper">
+        	<p>© 2013 Parlacom, All Rights Reserved</p>
+        </div>
+   </div>
+
+</body>
+</html>
