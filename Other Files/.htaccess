@@ -146,19 +146,19 @@ ExpiresDefault "access plus 2 days"
 
 #Redirects
 
-http://www.parlacom.net.br/pt/news/m2m.html	http://www.parlacom.net.br/pt/m2m.html
-http://www.parlacom.net.br/pt/news/index.html	http://www.parlacom.net.br/pt/
-http://www.parlacom.net.br/pt/ehealth.html	http://www.parlacom.net.br/pt/cibermedicina.html
-http://www.parlacom.net.br/pt/carrier_inter.html	http://www.parlacom.net.br/en/m2m_message.html
-http://www.parlacom.net.br/pt/news/article55.html	http://www.parlacom.net.br/pt/news/article64.html
-http://www.parlacom.net.br/pt/news/article54.html	http://www.parlacom.net.br/pt/news/article64.html
-http://www.parlacom.net.br/pt/news/mercuriusweb.html	http://www.parlacom.net.br/pt/mercuriusweb.html
-http://www.parlacom.net.br/pt/news/atualizacoesdoproduto.html	http://www.parlacom.net.br/pt/whitepapers.html
-http://www.parlacom.net.br/pt/news/aplicativosandroid.html	http://www.parlacom.net.br/pt/aplicativosandroid.html
-http://www.parlacom.net.br/pt/news/documentostecnicos.html	http://www.parlacom.net.br/pt/documentostecnicos.html
-http://www.parlacom.net.br/pt/news/listaprecos.html	http://www.parlacom.net.br/pt/listaprecos.html
-http://www.parlacom.net.br/pt/news/sobreparlacom.html	http://www.parlacom.net.br/pt/sobreparlacom.html
-http://www.parlacom.net.br/pt/news/whitepapers.html	http://www.parlacom.net.br/pt/whitepapers.html
+Redirect 301 http://www.parlacom.net.br/pt/news/m2m.html	http://www.parlacom.net.br/pt/m2m.html
+Redirect 301 http://www.parlacom.net.br/pt/news/index.html	http://www.parlacom.net.br/pt/
+Redirect 301 http://www.parlacom.net.br/pt/ehealth.html	http://www.parlacom.net.br/pt/cibermedicina.html
+Redirect 301 http://www.parlacom.net.br/pt/carrier_inter.html	http://www.parlacom.net.br/en/m2m_message.html
+Redirect 301 http://www.parlacom.net.br/pt/news/article55.html	http://www.parlacom.net.br/pt/news/article64.html
+Redirect 301 http://www.parlacom.net.br/pt/news/article54.html	http://www.parlacom.net.br/pt/news/article64.html
+Redirect 301 http://www.parlacom.net.br/pt/news/mercuriusweb.html	http://www.parlacom.net.br/pt/mercuriusweb.html
+Redirect 301 http://www.parlacom.net.br/pt/news/atualizacoesdoproduto.html	http://www.parlacom.net.br/pt/whitepapers.html
+Redirect 301 http://www.parlacom.net.br/pt/news/aplicativosandroid.html	http://www.parlacom.net.br/pt/aplicativosandroid.html
+Redirect 301 http://www.parlacom.net.br/pt/news/documentostecnicos.html	http://www.parlacom.net.br/pt/documentostecnicos.html
+Redirect 301 http://www.parlacom.net.br/pt/news/listaprecos.html	http://www.parlacom.net.br/pt/listaprecos.html
+Redirect 301 http://www.parlacom.net.br/pt/news/sobreparlacom.html	http://www.parlacom.net.br/pt/sobreparlacom.html
+Redirect 301 http://www.parlacom.net.br/pt/news/whitepapers.html	http://www.parlacom.net.br/pt/whitepapers.html
 Redirect 301 http://www.parlacom.net.br/pt/news/m2m_messaging.html	http://www.parlacom.net.br/en/m2m_message.html
 Redirect 301 http://www.parlacom.net.br/pt/news/faqsajuda.html	http://www.parlacom.net.br/pt/whitepapers.html
 Redirect 301 http://www.parlacom.net.br/pt/news/equipe.html	http://www.parlacom.net.br/pt/equipe.html
