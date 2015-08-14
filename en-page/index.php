@@ -1,10 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,etc..."/>
-<meta name="keywords" content="mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel, etc..."/>
-<title>Cloud-based M2M Platform, Machine to Machine | Parlacom</title>
+<meta charset="utf-8">
+<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,"mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel, etc..."/>
+
+<title>Cloud-based M2M Platform for your Business| Parlacom</title>
+<meta name="description" content="As one of the largest M2M company in Brazil, let Parlacom help you in your business with M2M solutions."/>
+<link rel="canonical" href="http://www.parlacom.net.br/en/"/>
 <link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -281,18 +283,18 @@
   <div class="wrapper">
     <div class="home_leftcon">
       <h1 class="mainhead">Cloud-based M2M Platform</h1>
-      <p class="paracom_style"> <b style="font-size:20px; display:block; margin-bottom:15px;"></b> <span style="text-align:justify;">Choosing the right M2M partner for your business is a big decision. As one of the largest M2M players in Brazil, managing over 200k simcards nationwide, Parlacom offers global M2M Networking and Management through our state of the art cloud platform.<br>
+      <p class="paracom_style"> <b style="font-size:20px; display:block; margin-bottom:15px;"></b> <span style="text-align:justify;">Choosing the right M2M partner for your business is a big decision. As one of the largest M2M players in Brazil, managing over 200k simcards nationwide, Parlacom offers global <a href="http://www.parlacom.net.br/en/m2m.html">M2M Networking</a> and Management through our state of the art cloud platform.<br>
         <br>
-        Working together with the largest mobile carriers in the world, we offer our customers M2M tools to manage their GPS tracking services, sales automation, security systems, dedicated payment gatewayse. Moreover:</span></<br />
+        Working together with the largest mobile carriers in the world, we offer our customers M2M tools to manage their <a href="http://www.parlacom.net.br/en/gpsvehicletracking.html">GPS tracking services.</a>, sales automation, <a href="http://www.parlacom.net.br/en/security.html">security systems</a>, <a href="http://www.parlacom.net.br/en/paymentsystem.html">dedicated payment gateway</a>. Moreover:</span></<br />
         <br />
       <ul class="clientschoice">
         <li><i class="fa fa-dot-circle-o"></i>Our complete suite of RESTful APIs provide a quick way to fully integrate any third party applications</li>
-        <li><i class="fa fa-dot-circle-o"></i>You have full visibility, real time access to your simcards, anywhere in the world, at any point in time</li>
+        <li><i class="fa fa-dot-circle-o"></i>You have full visibility, <a href="http://www.parlacom.net.br/en/simcard.html">real time access to your simcards</a>, anywhere in the world, at any point in time</li>
         <li><i class="fa fa-dot-circle-o"></i>All carriers are treated in an uniform fashion. You can activate, deactivate, 
           and configure any simcard,regardless of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the underlying technology</li>
         <li><i class="fa fa-dot-circle-o"></i>We manage each individual SIM card to offer you the ultimate 
           control and protection of data traffic for 3G,4G, GPRS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communications, and corporate intranets</li>
-        <li><i class="fa fa-dot-circle-o"></i>Our customers enjoy access to our sophisticated M2M web application. 
+        <li><i class="fa fa-dot-circle-o"></i>Our customers enjoy access to our sophisticated <a href="http://www.parlacom.net.br/en/platform.html">M2M web application</a>. 
           You will find that it is easy to monitor and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manage your company's data usage from our online portal</li>
         <li><i class="fa fa-dot-circle-o"></i>We live and breathe M2M. Our team has decades of experience in Telecom and software development</li>
       </ul>
