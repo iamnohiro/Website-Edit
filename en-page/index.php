@@ -326,11 +326,11 @@
       </p>
       <p class="paracom_style" style="font-size:16px;"><strong>Fully operational with the largest mobile operators in Brazil</strong></p>
       <ul class="operators">
-        <li><img src="images/vivo.jpg" /></li>
-        <li><img src="images/claro.jpg" /></li>
-        <li><img src="images/oi.jpg" /></li>
-        <li><img src="images/tim.jpg" /></li>
-        <li><img src="images/vodafone.jpg" /></li>
+        <li><img src="images/vivo.jpg" alt="Vivo" /></li>
+        <li><img src="images/claro.jpg" alt="Claro" /></li>
+        <li><img src="images/oi.jpg" alt="OI" /></li>
+        <li><img src="images/tim.jpg" alt="Tim" /></li>
+        <li><img src="images/vodafone.jpg" alt="Vodafone" /></li>
       </ul>
       <!-- <a class="readmore"><b>&raquo;</b> Read more</a>--> 
     </div>
@@ -353,7 +353,7 @@
       </ul>
       <div class="clr"></div>
     </div>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a class="pdf" target="_blank" href="http://www.parlacom.net.br/M2M.pdf"><img src="images/PDF.png" />Click here to download the<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;<a class="pdf" target="_blank" href="http://www.parlacom.net.br/M2M.pdf"><img src="images/PDF.png" alt="M2M PDF" />Click here to download the<br />
     PDF presentation of<br />
     M2M platform</a> </div>
 </div>
@@ -361,17 +361,17 @@
   <div class="wrapper">
     <h2 class="iconhead">The Best M2M Solutions For Your Industry</h2>
     <ul class="mainicons">
-      <li><a href="publictransportation.html"><img src="images/icn9.png" /></a> <span>public transportation</span> </li>
-      <li><a href="paymentsystem.html"><img src="images/icn1.png" /></a> <span>Payment systems using Point of Sales terminals</span> </li>
-      <li><a href="gpsvehicletracking.html"><img src="images/icn2.png" /></a> <span>GPS vehicle tracking companies</span> </li>
+      <li><a href="publictransportation.html"><img src="images/icn9.png" alt="Public Transportation" /></a> <span>public transportation</span> </li>
+      <li><a href="paymentsystem.html"><img src="images/icn1.png" alt="Payment systems using Point of Sales terminals" /></a> <span>Payment systems using Point of Sales terminals</span> </li>
+      <li><a href="gpsvehicletracking.html"><img src="images/icn2.png" alt="GPS vehicle tracking companies" /></a> <span>GPS vehicle tracking companies</span> </li>
       <div class="clr"></div>
-      <li><a href="utilities.html"><img src="images/icn3.png" /></a> <span>Natural gas utility companies</span> </li>
-      <li><a href="security.html"><img src="images/icn4.png" /></a> <span>Asset protection and Security Companies</span> </li>
-      <li><a href="salesforceautomation.html"><img src="images/icn5.png" /></a> <span>Sales Force automation</span> </li>
+      <li><a href="utilities.html"><img src="images/icn3.png" alt="Natural gas utility companies" /></a> <span>Natural gas utility companies</span> </li>
+      <li><a href="security.html"><img src="images/icn4.png" alt="Asset protection and Security Companies" /></a> <span>Asset protection and Security Companies</span> </li>
+      <li><a href="salesforceautomation.html"><img src="images/icn5.png" alt="Sales Force automation" /></a> <span>Sales Force automation</span> </li>
       <div class="clr"></div>
-      <li><a href="smartgrid.html"><img src="images/icn6.png" /></a> <span>Smart Grid for Utility Companies</span> </li>
-      <li><a href="ehealth.html"><img src="images/icn7.png" /></a> <span>E-Health</span> </li>
-      <li><a href="simcard.html"><img src="images/icn8.png" /></a> <span>SIM Card Management</span> </li>
+      <li><a href="smartgrid.html"><img src="images/icn6.png" alt="Smart Grid for Utility Companies" /></a> <span>Smart Grid for Utility Companies</span> </li>
+      <li><a href="ehealth.html"><img src="images/icn7.png" alt="E-Health" /></a> <span>E-Health</span> </li>
+      <li><a href="simcard.html"><img src="images/icn8.png" alt="SIM Card Management" /></a> <span>SIM Card Management</span> </li>
     </ul>
   </div>
 </div>
