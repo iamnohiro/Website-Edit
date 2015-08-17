@@ -9,14 +9,6 @@
 	<link rel="shortcut icon" href="http://www.parlacom.net.br/pt/images/favicon.ico" type="image/x-icon" />
 	<link rel="icon" href="http://www.parlacom.net.br/pt/images/favicon.ico" type="image/x-icon" />
 	<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="js/superfish.js"></script>
-	<script type="text/javascript" src="js/jquery.accordion.js"></script>
-	<script type="text/javascript">
-			$(document).ready(function() {
-				$('.accordion').accordion({defaultOpen: 'section1'}); //some_id section1 in org
-			});
-	 </script>
 </head>
 
 <body>
@@ -259,7 +251,14 @@ Belo Horizonte 31.4042-1790<br />
         	<p>© 2013 Parlacom, All Rights Reserved</p>
         </div>
    </div>
-
+		<script type="text/javascript" src="js/jquery-1.10.2.min.js" async></script>
+		<script type="text/javascript" src="js/superfish.js" async></script>
+		<script type="text/javascript" src="js/jquery.accordion.js" async></script>
+		<script type="text/javascript">
+				$(document).ready(function() {
+					$('.accordion').accordion({defaultOpen: 'section1'}); //some_id section1 in org
+				});
+		</script>
 		<!--Start of Zopim Live Chat Script-->
         <script type="text/javascript">
         window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
