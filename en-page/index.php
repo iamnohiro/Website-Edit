@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
 <head>
-<meta charset="utf-8">
-<meta name="keywords" content="m2m, m2m company, m2m cloud-based platform, m2m for business, Machine-to-Machine software , M2M platform" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel" />
 <title>Cloud-based M2M Platform for your Business| Parlacom</title>
 <meta name="description" content="As one of the largest M2M company in Brazil, let Parlacom help you in your business with M2M solutions." />
 <link rel="canonical" href="http://www.parlacom.net.br/en/"/>
@@ -402,15 +402,15 @@
       <div id="logo_perspective_black">
         <ul class="logo_perspective_list">
           <li><i class="fa fa-signal" style="font-size:60px; color:#666; margin-bottom:7px;"></i><br />
-            <a href="#" style="color:#ec7410; font-size:13px;">M2M Data</a></li>
+            <a href="http://www.parlacom.net.br/en/m2m.html" style="color:#ec7410; font-size:13px;">M2M Data</a></li>
           <li><i class="fa fa-envelope" style="font-size:60px; color:#666; position:relative; left:15px; margin-bottom:7px;"></i><br />
-            <a href="#" style="color:#ec7410;  font-size:13px;">M2M messaging</a></li>
+            <a href="http://www.parlacom.net.br/en/m2m_message.html" style="color:#ec7410;  font-size:13px;">M2M messaging</a></li>
           <li><i class="fa fa-android" style="font-size:60px; color:#666; position:relative; left:25px; margin-bottom:7px;"></i><br />
-            <a href="#" style="color:#ec7410; font-size:13px;">Android Application</a></li>
+            <a href="http://www.parlacom.net.br/en/android_app.html" style="color:#ec7410; font-size:13px;">Android Application</a></li>
           <li><i class="fa fa-folder-open"  style="font-size:60px; color:#666; position:relative; left:20px; margin-bottom:7px;"></i><br />
-            <a href="#" style="color:#ec7410; font-size:13px; position:relative; text-align:center;">Managed Data Centers</a></li>
+            <a href="http://www.parlacom.net.br/en/managed_data_center.html" style="color:#ec7410; font-size:13px; position:relative; text-align:center;">Managed Data Centers</a></li>
           <li><i class="fa fa-sitemap" style="font-size:60px; color:#666; margin-bottom:7px; position:relative; left:15px;"></i><br />
-            <a href="#" style="color:#ec7410; font-size:13px;">Virtual PBX and<br />
+            <a href="http://www.parlacom.net.br/en/virtualpbx.html" style="color:#ec7410; font-size:13px;">Virtual PBX and<br />
             Call Centers</a></li>
         </ul>
       </div>
@@ -451,13 +451,13 @@
         </li>
         <li><i class="fa fa-chevron-right"></i> <a href="#">OUR RESOURCES</a>
                        <ul>
-          <li><i class="fa fa-circle"></i><li><a href="articles.html">NEWS &amp; PRESS</a></li>
-          <li><i class="fa fa-circle"></i><li><a href="whitepapers.html">WHITEPAPERS</a></li>
-          <li><i class="fa fa-circle"></i><li><a href="contratos.html">CONTRACTS</a></li>
-          <li><i class="fa fa-circle"></i><li><a href="technicaldocument.html">TECHNICAL DOCUMENTS</a></li>
-          <li><i class="fa fa-circle"></i><li><a href="pricelist.html">PRICE LIST</a></li>
-          <li><i class="fa fa-circle"></i><li><a href="product_updates.html">PRODUCT UPDATES</a></li>
-          <li><i class="fa fa-circle"></i><li><a href="faqs_help.html">FAQs &amp; HELP</a></li>
+          <li><i class="fa fa-circle"></i><a href="articles.html">NEWS &amp; PRESS</a></li>
+          <li><i class="fa fa-circle"></i><a href="whitepapers.html">WHITEPAPERS</a></li>
+          <li><i class="fa fa-circle"></i><a href="contratos.html">CONTRACTS</a></li>
+          <li><i class="fa fa-circle"></i><a href="technicaldocument.html">TECHNICAL DOCUMENTS</a></li>
+          <li><i class="fa fa-circle"></i><a href="pricelist.html">PRICE LIST</a></li>
+          <li><i class="fa fa-circle"></i><a href="product_updates.html">PRODUCT UPDATES</a></li>
+          <li><i class="fa fa-circle"></i><a href="faqs_help.html">FAQs &amp; HELP</a></li>
         </ul>
                       
                       
