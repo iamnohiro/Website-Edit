@@ -167,7 +167,7 @@
     </div>
     <!--/slide -->
     
-    <div class="slide"> <img src="images/slide2_n.jpg" class="img" alt="M2M Transport" >
+    <div class="slide"> <img src="images/slide2_n.jpg" class="img" alt="M2M Transport" />
       <div class="slide_content">
         <div class="slide_content_wrap">
           <h4 class="title">Asset and Fleet Tracking</h4>
@@ -263,7 +263,7 @@
     </div>
     <!--/slide -->
     
-    <div class="slide"> <img src="images/slide5_n.jpg" class="img" alt="M2M for Payment" >
+    <div class="slide"> <img src="images/slide5_n.jpg" class="img" alt="M2M for Payment" />
       <div class="slide_content">
         <div class="slide_content_wrap">
           <h4 class="title">Payment and Transactions</h4>
