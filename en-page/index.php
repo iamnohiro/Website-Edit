@@ -361,17 +361,17 @@
   <div class="wrapper">
     <h2 class="iconhead">The Best M2M Solutions For Your Industry</h2>
     <ul class="mainicons">
-      <li><a href="publictransportation.html"><img src="images/icn9.png" alt="Public Transportation" /></a> <span>public transportation</span> </li>
-      <li><a href="paymentsystem.html"><img src="images/icn1.png" alt="Payment systems using Point of Sales terminals" /></a> <span>Payment systems using Point of Sales terminals</span> </li>
-      <li><a href="gpsvehicletracking.html"><img src="images/icn2.png" alt="GPS vehicle tracking companies" /></a> <span>GPS vehicle tracking companies</span> </li>
+      <li><a href="publictransportation.html"><img src="images/icn9.png" alt="Public Transportation" /><span>public transportation</span> </a> </li>
+      <li><a href="paymentsystem.html"><img src="images/icn1.png" alt="Payment systems using Point of Sales terminals" /><span>Payment systems using Point of Sales terminals</span> </a> </li>
+      <li><a href="gpsvehicletracking.html"><img src="images/icn2.png" alt="GPS vehicle tracking companies" /><span>GPS vehicle tracking companies</span></a> </li>
       <div class="clr"></div>
-      <li><a href="utilities.html"><img src="images/icn3.png" alt="Natural gas utility companies" /></a> <span>Natural gas utility companies</span> </li>
-      <li><a href="security.html"><img src="images/icn4.png" alt="Asset protection and Security Companies" /></a> <span>Asset protection and Security Companies</span> </li>
-      <li><a href="salesforceautomation.html"><img src="images/icn5.png" alt="Sales Force automation" /></a> <span>Sales Force automation</span> </li>
+      <li><a href="utilities.html"><img src="images/icn3.png" alt="Natural gas utility companies" /><span>Natural gas utility companies</span> </a></li>
+      <li><a href="security.html"><img src="images/icn4.png" alt="Asset protection and Security Companies" /> <span>Asset protection and Security Companies</span> </a></li>
+      <li><a href="salesforceautomation.html"><img src="images/icn5.png" alt="Sales Force automation" /><span>Sales Force automation</span></a> </li>
       <div class="clr"></div>
-      <li><a href="smartgrid.html"><img src="images/icn6.png" alt="Smart Grid for Utility Companies" /></a> <span>Smart Grid for Utility Companies</span> </li>
-      <li><a href="ehealth.html"><img src="images/icn7.png" alt="E-Health" /></a> <span>E-Health</span> </li>
-      <li><a href="simcard.html"><img src="images/icn8.png" alt="SIM Card Management" /></a> <span>SIM Card Management</span> </li>
+      <li><a href="smartgrid.html"><img src="images/icn6.png" alt="Smart Grid for Utility Companies" /><span>Smart Grid for Utility Companies</span></a></li>
+      <li><a href="ehealth.html"><img src="images/icn7.png" alt="E-Health" /><span>E-Health</span></a></li>
+      <li><a href="simcard.html"><img src="images/icn8.png" alt="SIM Card Management" /><span>SIM Card Management</span></a></li>
     </ul>
   </div>
 </div>
