@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
 <head>
-<meta charset="utf-8">
-<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,"mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel, etc..."/>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel" />
 <title>Cloud-based M2M Platform for your Business| Parlacom</title>
-<meta name="description" content="As one of the largest M2M company in Brazil, let Parlacom help you in your business with M2M solutions."/>
+<meta name="description" content="As one of the largest M2M company in Brazil, let Parlacom help you in your business with M2M solutions." />
 <link rel="canonical" href="http://www.parlacom.net.br/en/"/>
 <link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
@@ -112,12 +112,12 @@
       </li>
       <li class="drop"><a href="#">OUR RESOURCES</a>
         <ul>
-          <li><a href="articles.html">NEWS & PRESS</a></li>
+          <li><a href="articles.html">NEWS &amp; PRESS</a></li>
           <li><a href="whitepapers.html">WHITEPAPERS</a></li>
           <li><a href="technicaldocument.html">TECHNICAL DOCUMENTS</a></li>
           <li><a href="pricelist.html">PRICE LIST</a></li>
           <li><a href="product_updates.html">PRODUCT UPDATES</a></li>
-          <li><a href="faqs_help.html">FAQs & HELP</a></li>
+          <li><a href="faqs_help.html">FAQs &amp; HELP</a></li>
         </ul>
       </li>
       <li><a href="contact.html">CONTACT US</a></li>
@@ -306,8 +306,8 @@
   <div class="wrapper">
     <div class="home_leftcon">
       <h1 class="mainhead">Cloud-based M2M Platform</h1>
-      <p class="paracom_style"> <b style="font-size:20px; display:block; margin-bottom:15px;"></b> <span style="text-align:justify;">Choosing the right M2M partner for your business is a big decision. As one of the largest M2M players in Brazil, managing over 200k simcards nationwide, Parlacom offers global <a href="http://www.parlacom.net.br/en/m2m.html">M2M Networking</a> and Management through our state of the art cloud platform.<br>
-        <br>
+      <p class="paracom_style"> <b style="font-size:20px; display:block; margin-bottom:15px;"></b> <span style="text-align:justify;">Choosing the right M2M partner for your business is a big decision. As one of the largest M2M players in Brazil, managing over 200k simcards nationwide, Parlacom offers global <a href="http://www.parlacom.net.br/en/m2m.html">M2M Networking</a> and Management through our state of the art cloud platform.<br/>
+        <br/>
         Working together with the largest mobile carriers in the world, we offer our customers M2M tools to manage their <a href="http://www.parlacom.net.br/en/gpsvehicletracking.html">GPS tracking services.</a>, sales automation, <a href="http://www.parlacom.net.br/en/security.html">security systems</a>, <a href="http://www.parlacom.net.br/en/paymentsystem.html">dedicated payment gateway</a>. Moreover:</span></<br />
         <br />
       <ul class="clientschoice">
@@ -339,7 +339,7 @@
         <br />
       </div>
       <ul id="ticker" class="tick">
-        <li> <span class="cal"> </span> <span class="press_content"><a href="articles.html">NEWS & PRESS</a></span> </li>
+        <li> <span class="cal"> </span> <span class="press_content"><a href="articles.html">NEWS &amp; PRESS</a></span> </li>
         <li> <span class="cal"> </span> <span class="press_content"><a href="whitepapers.html">WHITEPAPERS</a></span> </li>
         <li> <span class="cal"> </span> <span class="press_content"><a href="contratos.html">CONTRACTS</a></span> </li>
         <li> <span class="cal"> </span> <span class="press_content"><a href="technicaldocument.html">TECHNICAL DOCUMENTS</a></span> </li>
@@ -451,13 +451,13 @@
         </li>
         <li><i class="fa fa-chevron-right"></i> <a href="#">OUR RESOURCES</a>
                        <ul>
-          <li><i class="fa fa-circle"></i><li><a href="articles.html">NEWS & PRESS</a></li>
+          <li><i class="fa fa-circle"></i><li><a href="articles.html">NEWS &amp; PRESS</a></li>
           <li><i class="fa fa-circle"></i><li><a href="whitepapers.html">WHITEPAPERS</a></li>
           <li><i class="fa fa-circle"></i><li><a href="contratos.html">CONTRACTS</a></li>
           <li><i class="fa fa-circle"></i><li><a href="technicaldocument.html">TECHNICAL DOCUMENTS</a></li>
           <li><i class="fa fa-circle"></i><li><a href="pricelist.html">PRICE LIST</a></li>
           <li><i class="fa fa-circle"></i><li><a href="product_updates.html">PRODUCT UPDATES</a></li>
-          <li><i class="fa fa-circle"></i><li><a href="faqs_help.html">FAQs & HELP</a></li>
+          <li><i class="fa fa-circle"></i><li><a href="faqs_help.html">FAQs &amp; HELP</a></li>
         </ul>
                       
                       
@@ -472,7 +472,7 @@
       11220 Elm Lane, Suite 200<br />
       Charlotte, NC 28277<br />
       <i class="fa fa-phone"></i> 1-704-448-1158<br />
-      <i class="ss-fax"></i> (703) 564-0887<br>
+      <i class="ss-fax"></i> (703) 564-0887<br/>
       <strong>International</strong> <b>Canada:</b> 514-6670356<br />
       <b>England:</b> 44-20-30261170<br />
       <b>Argentina:</b> 54-11-59176015<br />
@@ -483,12 +483,12 @@
       </address>
       <address>
       <strong>Brazil - Offices</strong> Datelo Telecomunicações LTDA<br />
-      Av. Luis Carlos Berrini, 1.140, 7.O Andar Conj. 72, Brooklin<br>
-      Sao Paulo, SP 04571-000<br>
+      Av. Luis Carlos Berrini, 1.140, 7.O Andar Conj. 72, Brooklin<br/>
+      Sao Paulo, SP 04571-000<br/>
       <hr>
       Parlacom Telecomunicações e Informática LTDA<br />
-      Rua Ernesto de Paula Santos, 960/102, Boa Viagem<br>
-      Recife - PE 51021-330<br>
+      Rua Ernesto de Paula Santos, 960/102, Boa Viagem<br/>
+      Recife - PE 51021-330<br/>
       <i class="fa fa-envelope"></i><a href="mailTo:sales@parlacom.net">sales @ parlacom.net</a><br />
       <i class="fa fa-envelope"></i><a href="mailTo:sales@datelo.com.br">sales @ datelo.com.br</a><br />
        
@@ -497,7 +497,7 @@
       <strong>Brazil - Phones</strong>  Sao Paulo 11.3230-2454<br />
                         Rio de Janeiro 21.4042-2454<br />
                         Recife  81.4042-1955<br />
-                        Belo Horizonte 31.4042-1790<br>
+                        Belo Horizonte 31.4042-1790<br/>
       </address>
     </div>
   </div>
