@@ -3,17 +3,40 @@
 <head>
 <meta charset="utf-8">
 <meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,"mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel, etc..."/>
-
 <title>Cloud-based M2M Platform for your Business| Parlacom</title>
 <meta name="description" content="As one of the largest M2M company in Brazil, let Parlacom help you in your business with M2M solutions."/>
 <link rel="canonical" href="http://www.parlacom.net.br/en/"/>
 <link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 <link href="css/icon.css" rel="stylesheet" type="text/css" />
 <link href="css/css.css" rel="stylesheet" type="text/css" />
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css" />
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Parlacom Telecommunications and Informatics LTD",
+  "url" : "http://www.parlacom.net.br",
+  "sameAs" : [ "https://www.facebook.com/parlacom?ref=tn_tnmn",
+	  "https://plus.google.com/116985116471432359216/posts",
+	  "https://www.linkedin.com/company/parlacom-m2m?trk=top_nav_home",
+	  "https://twitter.com/ParlacomBrasil"],
+  "logo" : "http://www.parlacom.net.br/pt/images/logoorg.png",
+  "address":
+	{
+	  "@type": "PostalAddress",
+	  "streetAddress": "Rua Ernesto de Paula Santos,960,sl. 102 Boa Viagem",
+	  "addressLocality": "Recife",
+	  "addressRegion": "PE",
+	  "addressCountry": "BR"
+	},
+  "contactPoint" : [
+	{ "@type" : "ContactPoint",
+	  "telephone" : "+55-1130200909",
+	  "contactType" : "Customer Service"
+	} ] }
+</script>
 <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="js/css3-mediaqueries.js"></script>
