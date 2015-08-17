@@ -135,12 +135,12 @@
     
     <!-- ****************** /STEP 3: ADD SLIDES ****************** -->
     
-    <div class="slide"> <img src="images/slide_n.jpg" class="img">
+    <div class="slide"> <img src="images/slide_n.jpg" class="img" alt="Intelligent Medical Assistance" />
       <div class="slide_content">
         <div class="slide_content_wrap">
           <h4 class="title">Healthcare Quality</h4>
           <div class="ban">
-            <div class="ban_left"> <img src="images/women2.png" /> 
+            <div class="ban_left"> <img src="images/women2.png" alt="ParlaCom Woman" /> 
               <!--<div class="video">
 							<span class="anibg">
                             	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
@@ -167,12 +167,12 @@
     </div>
     <!--/slide -->
     
-    <div class="slide"> <img src="images/slide2_n.jpg" class="img">
+    <div class="slide"> <img src="images/slide2_n.jpg" class="img" alt="M2M Transport" >
       <div class="slide_content">
         <div class="slide_content_wrap">
           <h4 class="title">Asset and Fleet Tracking</h4>
           <div class="ban">
-            <div class="ban_left"> <img src="images/women2.png" /> 
+            <div class="ban_left"> <img src="images/women2.png" alt="ParlaCom Woman" /> 
               <!-- <div class="video">
 							<span class="anibg">
                             	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
@@ -199,12 +199,12 @@
     </div>
     <!--/slide -->
     
-    <div class="slide"> <img src="images/slide3_n.jpg" class="img">
+    <div class="slide"> <img src="images/slide3_n.jpg" class="img" alt="M2M for Operations" />
       <div class="slide_content">
         <div class="slide_content_wrap">
           <h4 class="title">Industrial Monitoring</h4>
           <div class="ban">
-            <div class="ban_left"> <img src="images/women2.png" /> 
+            <div class="ban_left"> <img src="images/women2.png" alt="ParlaCom Woman"  /> 
               <!-- <div class="video">
 							<span class="anibg">
                             	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
@@ -231,12 +231,12 @@
     </div>
     <!--/slide -->
     
-    <div class="slide"> <img src="images/slide4_n.jpg" class="img">
+    <div class="slide"> <img src="images/slide4_n.jpg" class="img" alt="M2M for Safety" />
       <div class="slide_content">
         <div class="slide_content_wrap">
           <h4 class="title">Security and Remote Surveillance</h4>
           <div class="ban">
-            <div class="ban_left"> <img src="images/women2.png" /> 
+            <div class="ban_left"> <img src="images/women2.png" alt="ParlaCom Woman"  /> 
               <!--<div class="video">
 							<span class="anibg">
                             	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
@@ -263,12 +263,12 @@
     </div>
     <!--/slide -->
     
-    <div class="slide"> <img src="images/slide5_n.jpg" class="img">
+    <div class="slide"> <img src="images/slide5_n.jpg" class="img" alt="M2M for Payment" >
       <div class="slide_content">
         <div class="slide_content_wrap">
           <h4 class="title">Payment and Transactions</h4>
           <div class="ban">
-            <div class="ban_left"> <img src="images/women2.png" /> 
+            <div class="ban_left"> <img src="images/women2.png" alt="ParlaCom Woman" /> 
               <!--<div class="video">
 							<span class="anibg">
                             	<img src="images/logoorg.png" class="logo" alt="Parlacom" />
