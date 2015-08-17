@@ -58,7 +58,7 @@
 			<li><a href="https://twitter.com/leadingquest" target="_blank"><img src="images/twitter.png" alt="Parlacom Twitter" /></a></li>
         </ul>
         <ul class="languageopt">
-			<li class="drop"><a href="/en"><img src="images/en.png" alt="English" /> English</a><li>
+			<li class="drop"><a href="/en"><img src="images/en.png" alt="English" /> English</a></li>
 			<li><a href="/pt"><img src="images/port.png" alt="Português" /> Portuguese</a></li>
 		</ul>
       </div>
