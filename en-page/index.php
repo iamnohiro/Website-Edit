@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="keywords" content="chip,chips,chip m2m,chipm2m,parlacom,telemetria,comunicacao,monitoramento,monitora,transacoes comerciais,gps,leitores de energia,gprs,control center,controlcenter,Brazil, Brasil,www.parlacom.net.br, www.parlacom.net,mvno, mvne, celular, telefonia, voip, pbx, call center, contact center, rastreamento, mobile, android, software, iphone, ipad, data center, software development, platform, datelo, www.datelo.com.br, stfc, scm, anatel" />
+<meta charset="utf-8">
+<meta name="keywords" content="m2m, m2m company, m2m cloud-based platform, m2m for business, Machine-to-Machine software , M2M platform" />
 <title>Cloud-based M2M Platform for your Business| Parlacom</title>
 <meta name="description" content="As one of the largest M2M company in Brazil, let Parlacom help you in your business with M2M solutions." />
 <link rel="canonical" href="http://www.parlacom.net.br/en/"/>
