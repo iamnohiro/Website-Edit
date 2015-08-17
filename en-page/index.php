@@ -72,8 +72,8 @@
                     <span><i class="fa fa-phone-square"></i> 11 – 32302454</span> 
                 </div>
       			<div class="clr"></div>
-      			<span class="login"><a href="http://www.parlacom.net/login.html" target=_BLANK>Login</a></span>
-      			<span class="sign_up"><a href="http://parlacom.net/mvno/parla/users/parla/signup.html" target=_BLANK>Sign up</a></span>
+      			<span class="login"><a href="http://www.parlacom.net/login.html" target="_blank">Login</a></span>
+      			<span class="sign_up"><a href="http://parlacom.net/mvno/parla/users/parla/signup.html" target="_blank">Sign up</a></span>
     <!--      <a class="ff_btn btn_orange" href="http://www.parlacom.net/mvno/parla/users/parla/signup.html">Signup&nbsp;&nbsp;&nbsp;<i class="fa fa-arrow-circle-o-right"></i></a> <a class="ff_btn btn_orange" href="http://www.parlacom.net/login.html">Login&nbsp;&nbsp;&nbsp;<i class="fa fa-lock"></i></a> </div>
 -->    		</div>
 		</div>
