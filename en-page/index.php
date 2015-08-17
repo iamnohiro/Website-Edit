@@ -348,7 +348,7 @@
         <li> <span class="cal"> </span> <span class="press_content"><a href="faqs_help.html">FAQs &amp; HELP </a></span> </li>
       </ul>
       <ul class="app">
-        <li><a href="https://play.google.com/store/apps/developer?id=Parlacom%20LTDA&hl=en" target="_blank"><i class="fa fa-android"></i><small>Download <br />
+        <li><a target="_blank" href="https://play.google.com/store/apps/developer?id=Parlacom%20LTDA&amp;hl=en"><i class="fa fa-android"></i><small>Download <br />
           Parlacom Apps on</small>Google Store</a></li>
       </ul>
       <div class="clr"></div>
@@ -361,21 +361,21 @@
   <div class="wrapper">
     <h2 class="iconhead">The Best M2M Solutions For Your Industry</h2>
     <ul class="mainicons">
-      <li><a href="publictransportation.html"><img src="images/icn9.png" alt="Public Transportation" /><span>public transportation</span> </a> </li>
-      <li><a href="paymentsystem.html"><img src="images/icn1.png" alt="Payment systems using Point of Sales terminals" /><span>Payment systems using Point of Sales terminals</span> </a> </li>
-      <li><a href="gpsvehicletracking.html"><img src="images/icn2.png" alt="GPS vehicle tracking companies" /><span>GPS vehicle tracking companies</span></a> </li>
+      <li><a href="publictransportation.html"><img src="images/icn9.png" alt="Public Transportation" /></a><span>public transportation</span></li>
+      <li><a href="paymentsystem.html"><img src="images/icn1.png" alt="Payment systems using Point of Sales terminals" /></a><span>Payment systems using Point of Sales terminals</span></li>
+      <li><a href="gpsvehicletracking.html"><img src="images/icn2.png" alt="GPS vehicle tracking companies" /></a><span>GPS vehicle tracking companies</span></li>
       <div class="clr"></div>
-      <li><a href="utilities.html"><img src="images/icn3.png" alt="Natural gas utility companies" /><span>Natural gas utility companies</span> </a></li>
-      <li><a href="security.html"><img src="images/icn4.png" alt="Asset protection and Security Companies" /> <span>Asset protection and Security Companies</span> </a></li>
-      <li><a href="salesforceautomation.html"><img src="images/icn5.png" alt="Sales Force automation" /><span>Sales Force automation</span></a> </li>
+      <li><a href="utilities.html"><img src="images/icn3.png" alt="Natural gas utility companies" /></a><span>Natural gas utility companies</span></li>
+      <li><a href="security.html"><img src="images/icn4.png" alt="Asset protection and Security Companies" /></a><span>Asset protection and Security Companies</span></li>
+      <li><a href="salesforceautomation.html"><img src="images/icn5.png" alt="Sales Force automation" /></a><span>Sales Force automation</span></li>
       <div class="clr"></div>
-      <li><a href="smartgrid.html"><img src="images/icn6.png" alt="Smart Grid for Utility Companies" /><span>Smart Grid for Utility Companies</span></a></li>
-      <li><a href="ehealth.html"><img src="images/icn7.png" alt="E-Health" /><span>E-Health</span></a></li>
-      <li><a href="simcard.html"><img src="images/icn8.png" alt="SIM Card Management" /><span>SIM Card Management</span></a></li>
+      <li><a href="smartgrid.html"><img src="images/icn6.png" alt="Smart Grid for Utility Companies" /></a><span>Smart Grid for Utility Companies</span></li>
+      <li><a href="ehealth.html"><img src="images/icn7.png" alt="E-Health" /></a><span>E-Health</span></li>
+      <li><a href="simcard.html"><img src="images/icn8.png" alt="SIM Card Management" /></a><span>SIM Card Management</span></li>
     </ul>
   </div>
 </div>
-<script>
+<script type="text/javascript" >
 		$(function() {
 
 			jQuery('#logo_perspective_black').logo_perspective({
@@ -485,7 +485,7 @@
       <strong>Brazil - Offices</strong> Datelo Telecomunicações LTDA<br />
       Av. Luis Carlos Berrini, 1.140, 7.O Andar Conj. 72, Brooklin<br/>
       Sao Paulo, SP 04571-000<br/>
-      <hr>
+      <strong class="divider">&nbsp;</strong>
       Parlacom Telecomunicações e Informática LTDA<br />
       Rua Ernesto de Paula Santos, 960/102, Boa Viagem<br/>
       Recife - PE 51021-330<br/>
@@ -508,7 +508,7 @@
   </div>
 </div>
 </body>
-<script>
+<script type="text/javascript">
 		$('ul.mainicons li').find('a').hover( function () {
 			$(this).addClass('active');
 		}, function() {
@@ -519,6 +519,5 @@
 		function success(){
 			$(".thank").slideDown(300);
 		}
-		
-	</script>
+</script>
 </html>
