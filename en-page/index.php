@@ -308,7 +308,7 @@
       <h1 class="mainhead">Cloud-based M2M Platform</h1>
       <p class="paracom_style"> <b style="font-size:20px; display:block; margin-bottom:15px;"></b> <span style="text-align:justify;">Choosing the right M2M partner for your business is a big decision. As one of the largest M2M players in Brazil, managing over 200k simcards nationwide, Parlacom offers global <a href="http://www.parlacom.net.br/en/m2m.html">M2M Networking</a> and Management through our state of the art cloud platform.<br/>
         <br/>
-        Working together with the largest mobile carriers in the world, we offer our customers M2M tools to manage their <a href="http://www.parlacom.net.br/en/gpsvehicletracking.html">GPS tracking services.</a>, sales automation, <a href="http://www.parlacom.net.br/en/security.html">security systems</a>, <a href="http://www.parlacom.net.br/en/paymentsystem.html">dedicated payment gateway</a>. Moreover:</span></<br />
+        Working together with the largest mobile carriers in the world, we offer our customers M2M tools to manage their <a href="http://www.parlacom.net.br/en/gpsvehicletracking.html">GPS tracking services.</a>, sales automation, <a href="http://www.parlacom.net.br/en/security.html">security systems</a>, <a href="http://www.parlacom.net.br/en/paymentsystem.html">dedicated payment gateway</a>. Moreover:</span><br />
         <br />
       <ul class="clientschoice">
         <li><i class="fa fa-dot-circle-o"></i>Our complete suite of RESTful APIs provide a quick way to fully integrate any third party applications</li>
